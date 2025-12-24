@@ -28,5 +28,11 @@
     "title": "Grudzien",
     "filename": "grudzien.json",
     "url": "https://gist.githubusercontent.com/skokivPr/a9823610d8938fdfbb47f6aa91d973aa/raw/97794c442c0c210fac8115eb1bfc8a6034f2ccb8/grudzien.json"
+  },
+  {
+    "id": 6,
+    "title": "w5g",
+    "filename": "w5g.json",
+    "url": "https://raw.githubusercontent.com/skokivPr/json-lista/refs/heads/main/w5g.json"
   }
 ]

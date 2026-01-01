@@ -24,13 +24,13 @@
     "icon": "https://api.iconify.design/game-icons:wolf-head.svg"
   },
   "M": {
-    "from": 25,
+    "from": 24,
     "label": "M",
     "colorDark": "#ffff00",
     "icon": "https://api.iconify.design/game-icons:eagle-emblem.svg"
   },
   "Y": {
-    "from": 37,
+    "from": 35,
     "label": "Y",
     "colorDark": "#00ff00",
     "icon": "https://api.iconify.design/game-icons:biohazard.svg"

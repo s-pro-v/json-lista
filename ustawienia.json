@@ -1,38 +1,10 @@
 {
-  "D": {
-    "from": 1,
-    "label": "D",
-    "colorDark": "#ffad32",
-    "icon": "https://api.iconify.design/game-icons:rank-3.svg"
-  },
-  "S": {
-    "from": 6,
-    "label": "S",
-    "colorDark": "#0066ff",
-    "icon": "https://api.iconify.design/game-icons:rank-2.svg"
-  },
-  "L": {
-    "from": 11,
-    "label": "L",
-    "colorDark": "#6fa1ff",
-    "icon": "https://api.iconify.design/game-icons:rank-1.svg"
-  },
-  "K": {
-    "from": 13,
-    "label": "K",
-    "colorDark": "#ff8b55",
-    "icon": "https://api.iconify.design/game-icons:wolf-head.svg"
-  },
-  "M": {
-    "from": 24,
-    "label": "M",
-    "colorDark": "#ffff00",
-    "icon": "https://api.iconify.design/game-icons:eagle-emblem.svg"
-  },
-  "Y": {
-    "from": 35,
-    "label": "Y",
-    "colorDark": "#00ff00",
-    "icon": "https://api.iconify.design/game-icons:biohazard.svg"
-  }
+  "groups": [
+    { "min": 1, "max": 5, "code": "d", "name": "SEKCJA D" },
+    { "min": 6, "max": 10, "code": "s", "name": "SEKCJA S" },
+    { "min": 11, "max": 12, "code": "l", "name": "SEKCJA L" },
+    { "min": 13, "max": 23, "code": "k", "name": "SEKCJA K" },
+    { "min": 24, "max": 34, "code": "m", "name": "SEKCJA M" },
+    { "min": 35, "max": 58, "code": "y", "name": "SEKCJA Y" }
+  ]
 }

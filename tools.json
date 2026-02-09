@@ -3,36 +3,36 @@
     "id": 1,
     "title": "Notes",
     "filename": "notes.json",
-    "url": "https://gist.githubusercontent.com/skokivPr/c5ab79a67926ad6a9d3b84eee29c1740/raw/3a640e0199b8614965a0dc35cc840cfb98a42ba0/notes.json"
+    "url": "https://gist.githubusercontent.com/s-pro-v/c5ab79a67926ad6a9d3b84eee29c1740/raw/3a640e0199b8614965a0dc35cc840cfb98a42ba0/notes.json"
   },
   {
     "id": 2,
     "title": "html",
     "filename": "html.json",
-    "url": "https://raw.githubusercontent.com/skokivPr/json-lista/refs/heads/main/html.json"
+    "url": "https://raw.githubusercontent.com/s-pro-v/json-lista/refs/heads/main/html.json"
   },
   {
     "id": 3,
     "title": "Grafik",
     "filename": "grafik.json",
-    "url": "https://raw.githubusercontent.com/skokivPr/json-lista/refs/heads/main/grafik.json"
+    "url": "https://raw.githubusercontent.com/s-pro-v/json-lista/refs/heads/main/grafik.json"
   },
   {
     "id": 4,
     "title": "12.zmiany",
     "filename": "zmiany.json",
-    "url": "https://gist.githubusercontent.com/skokivPr/db4b442a9831f8f329882451e244b6c6/raw/9e6fd7d161d08698bf864348e478804d0dd79f69/zmiany.json"
+    "url": "https://gist.githubusercontent.com/s-pro-v/db4b442a9831f8f329882451e244b6c6/raw/9e6fd7d161d08698bf864348e478804d0dd79f69/zmiany.json"
   },
   {
     "id": 5,
     "title": "Grudzien",
     "filename": "grudzien.json",
-    "url": "https://gist.githubusercontent.com/skokivPr/a9823610d8938fdfbb47f6aa91d973aa/raw/97794c442c0c210fac8115eb1bfc8a6034f2ccb8/grudzien.json"
+    "url": "https://gist.githubusercontent.com/s-pro-v/a9823610d8938fdfbb47f6aa91d973aa/raw/97794c442c0c210fac8115eb1bfc8a6034f2ccb8/grudzien.json"
   },
   {
     "id": 6,
     "title": "w5g",
     "filename": "w5g.json",
-    "url": "https://raw.githubusercontent.com/skokivPr/json-lista/refs/heads/main/w5g.json"
+    "url": "https://raw.githubusercontent.com/s-pro-v/json-lista/refs/heads/main/w5g.json"
   }
 ]

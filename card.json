@@ -1,0 +1,17 @@
+[
+  {
+    "url": "https://linkosi.carrd.co",
+    "title": "Personal Interface",
+    "description": "Główny profil użytkownika Linkosi. Status połączenia: Oczekujący."
+  },
+  {
+    "url": "https://vs-note.carrd.co",
+    "title": "Terminal: Notatnik",
+    "description": "VsTERMINAL – notatnik, operacje tekstowe, moduł edycji. SYSTEM_READY."
+  },
+  {
+    "url": "https://editor-vs.carrd.co",
+    "title": "Cyber Dev // Web Stack",
+    "description": "Monaco Stack – edytor kodu, projekty, build. WEB_KERNEL."
+  }
+]

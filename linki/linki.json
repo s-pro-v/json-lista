@@ -46,8 +46,6 @@
     { "id": "carbon-now", "name": "Carbon (Code Snippets)", "url": "https://carbon.now.sh/" },
     { "id": "readme-so", "name": "README.so Editor", "url": "https://readme.so/editor" },
     { "id": "all-in-one-tools", "name": "All-In-One Tools", "url": "https://allinone.tools/" },
-    { "id": "tint-mint", "name": "Tint Mint", "url": "https://tintmint.net/" },
-    { "id": "boxshadows-xyz", "name": "BoxShadows.xyz", "url": "https://boxshadows.xyz/" },
     { "id": "ggradient", "name": "GGradient", "url": "https://ggradient.com/" },
     { "id": "flexer-dev", "name": "Flexer.dev", "url": "https://www.flexer.dev/" },
     { "id": "3d-book-generator", "name": "3D Book Generator", "url": "https://scastiel.dev/3dbook" },
@@ -89,3 +87,4 @@
     { "id": "pixlr-remove-bg", "name": "Pixlr Remove BG", "url": "https://pixlr.com/pl/remove-background/" }
   ]
 }
+

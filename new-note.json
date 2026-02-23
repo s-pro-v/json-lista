@@ -1,5 +1,5 @@
 [
-  {
+  { 
     "name": "ranty shadow",
     "content": "[data-color=\"blue\"] { --background: radial-gradient(circle at center top, cyan 0%, blue 100%); }\n[data-color=\"sky\"] { --background: radial-gradient(circle at center top, lightgreen 0%, deepskyblue 100%); }\n\n.IconWrapper {\n    --top-strength: 0.8;    /* 0 - 1 */\n    --bottom-strength: 0.5; /* 0 - 1 */\n    --ridge: 2px;\n    --roundness: 0.2; /* 0 - 1 */\n\n\n    /*  ------  */\n    position: relative;\n    width: 200px;\n    height: 200px;\n    corner-shape: squircle;\n    border-radius: 1e5px;\n    overflow: hidden;\n    background: var(--background)\n}\n\n.IconWrapper::before {\n    content: \"\";\n    top: var(--ridge);\n    right: var(--ridge);\n    bottom: var(--ridge);\n    left: var(--ridge);\n    position: absolute;\n    corner-shape: inherit;\n    border-radius: inherit;\n    pointer-events: none;\n    filter: blur(calc(var(--roundness) * 10px));\n    mix-blend-mode: screen;\n    box-shadow:\n        -80px -100px 70px oklch(from white l c h / calc(var(--top-strength) * 100%)),\n        80px 80px 70px oklch(from white l c h / calc(var(--bottom-strength) * 100%));\n}",
     "date": "17.02.2026, 04:36:05",

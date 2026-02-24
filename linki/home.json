@@ -1,0 +1,317 @@
+[
+    {
+        "id": "RES_000",
+        "name": "LINKOSI",
+        "url": "https://linkosi.carrd.co",
+        "type": "WEB_SERVICE",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "RES_001",
+        "name": "GUARD",
+        "url": "https://s-pro-v.github.io/guard/",
+        "type": "EXTERNAL_REPO",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "RES_002",
+        "name": "CZATDEV",
+        "url": "https://czatdev.carrd.co",
+        "type": "WEB_SERVICE",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "RES_003",
+        "name": "GRAFIKDEV",
+        "url": "https://grafikdev.carrd.co/",
+        "type": "WEB_SERVICE",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "RES_004",
+        "name": "TOOLSLINK",
+        "url": "https://toolslink.carrd.co/",
+        "type": "WEB_SERVICE",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "RES_005",
+        "name": "SITESW5",
+        "url": "https://sitesw5.carrd.co/#",
+        "type": "WEB_SERVICE",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "RES_006",
+        "name": "SANBOX",
+        "url": "https://sanbox.carrd.co/",
+        "type": "WEB_SERVICE",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "RES_007",
+        "name": "W5E",
+        "url": "https://w5e.carrd.co/",
+        "type": "WEB_SERVICE",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "RES_008",
+        "name": "TXTPRO",
+        "url": "https://txtpro.carrd.co/",
+        "type": "WEB_SERVICE",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "RES_009",
+        "name": "THREEJS.ORG",
+        "url": "https://threejs.org/",
+        "type": "WEB_SERVICE",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "RES_010",
+        "name": "WWW.JSDELIVR.COM",
+        "url": "https://www.jsdelivr.com/github",
+        "type": "EXTERNAL_REPO",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "RES_011",
+        "name": "CYBER-CODE",
+        "url": "https://s-pro-v.github.io/cyber-code/",
+        "type": "EXTERNAL_REPO",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "RES_012",
+        "name": "CSS-UP",
+        "url": "https://s-pro-v.github.io/css-up/",
+        "type": "EXTERNAL_REPO",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "RES_013",
+        "name": "CSS_INJECTOR",
+        "url": "https://s-pro-v.github.io/css_injector/",
+        "type": "EXTERNAL_REPO",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "RES_014",
+        "name": "EDITOR-VS",
+        "url": "https://editor-vs.carrd.co/",
+        "type": "WEB_SERVICE",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "RES_015",
+        "name": "GLASSPLAY",
+        "url": "https://glassplay.carrd.co/",
+        "type": "WEB_SERVICE",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "RES_016",
+        "name": "MDCODE",
+        "url": "https://mdcode.carrd.co/",
+        "type": "WEB_SERVICE",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "RES_017",
+        "name": "EDYTOR",
+        "url": "https://edytor.carrd.co/",
+        "type": "WEB_SERVICE",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "RES_018",
+        "name": "MODIFIER",
+        "url": "https://modifier.carrd.co/",
+        "type": "WEB_SERVICE",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "RES_019",
+        "name": "EXD9",
+        "url": "https://exd9.carrd.co/",
+        "type": "WEB_SERVICE",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "RES_020",
+        "name": "VS-NOTE",
+        "url": "https://vs-note.carrd.co/",
+        "type": "WEB_SERVICE",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "RES_021",
+        "name": "TOOLSLINKI",
+        "url": "https://toolslinki.carrd.co/",
+        "type": "WEB_SERVICE",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "RES_023",
+        "name": "REACTLIVE",
+        "url": "https://reactlive.carrd.co/",
+        "type": "WEB_SERVICE",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "RES_024",
+        "name": "GISTJSON",
+        "url": "https://gistjson.carrd.co/",
+        "type": "WEB_SERVICE",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "RES_025",
+        "name": "GIT.GITHUB.IO",
+        "url": "https://s-pro-v.github.io/git.github.io/",
+        "type": "EXTERNAL_REPO",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "RES_026",
+        "name": "UPCSV",
+        "url": "https://upcsv.carrd.co/",
+        "type": "WEB_SERVICE",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "RES_027",
+        "name": "INCSVDEV",
+        "url": "https://incsvdev.carrd.co/",
+        "type": "WEB_SERVICE",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "RES_028",
+        "name": "CSVY",
+        "url": "https://csvy.carrd.co/",
+        "type": "WEB_SERVICE",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "RES_029",
+        "name": "PLAYLIVEOS",
+        "url": "https://playliveos.carrd.co/",
+        "type": "WEB_SERVICE",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "RES_030",
+        "name": "EDYTORTXT",
+        "url": "https://edytortxt.carrd.co/",
+        "type": "WEB_SERVICE",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "RES_032",
+        "name": "ARKUSZ",
+        "url": "https://arkusz.carrd.co/",
+        "type": "WEB_SERVICE",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "RES_034",
+        "name": "ADDLIST",
+        "url": "https://addlist.carrd.co/",
+        "type": "WEB_SERVICE",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "RES_035",
+        "name": "PREVIEWGIB",
+        "url": "https://previewgib.carrd.co/",
+        "type": "WEB_SERVICE",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "RES_036",
+        "name": "ZOOMFRAME",
+        "url": "https://zoomframe.carrd.co/",
+        "type": "WEB_SERVICE",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "RES_037",
+        "name": "W5G.GITHUB.IO",
+        "url": "https://s-pro-v.github.io/w5g.github.io/",
+        "type": "EXTERNAL_REPO",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "RES_038",
+        "name": "IMGADD",
+        "url": "https://imgadd.carrd.co/",
+        "type": "WEB_SERVICE",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "RES_039",
+        "name": "DEVOSPANEL",
+        "url": "https://devospanel.carrd.co/",
+        "type": "WEB_SERVICE",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "RES_040",
+        "name": "APPMETEO",
+        "url": "https://appmeteo.carrd.co/",
+        "type": "WEB_SERVICE",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "RES_041",
+        "name": "PLAYYT",
+        "url": "https://playyt.carrd.co/",
+        "type": "WEB_SERVICE",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "RES_042",
+        "name": "TOOLSNUE",
+        "url": "https://toolsnue.carrd.co/",
+        "type": "WEB_SERVICE",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "RES_043",
+        "name": "PANELSDEV",
+        "url": "https://panelsdev.carrd.co/",
+        "type": "WEB_SERVICE",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "RES_044",
+        "name": "MOBILE.GITHUB.IO",
+        "url": "https://s-pro-v.github.io/mobile.github.io/",
+        "type": "EXTERNAL_REPO",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "RES_045",
+        "name": "CODEINSPECT",
+        "url": "https://codeinspect.carrd.co/",
+        "type": "WEB_SERVICE",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "RES_046",
+        "name": "DEVPAGE5",
+        "url": "https://devpage5.carrd.co/",
+        "type": "WEB_SERVICE",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "RES_047",
+        "name": "VAULT_V6",
+        "url": "https://s-pro-v.github.io/vault_v6/",
+        "type": "EXTERNAL_REPO",
+        "status": "ACTIVE"
+    }
+]

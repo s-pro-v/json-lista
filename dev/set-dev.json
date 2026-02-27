@@ -1,4 +1,6 @@
 [
   { "key_SD": "uvb76-nexus", "owner": "user1@gmail.com", "label": "NODE_ALPHA" },
-  { "key_SD": "r34-delta", "owner": "user2@gmail.com", "label": "NODE_BETA" }
+  { "key_SD": "r34-delta", "owner": "user2@gmail.com", "label": "NODE_BETA" },
+  { "key_SD": "my10-dev", "owner": "skoczek781717@gmail.com", "label": "Admin" }
+
 ]

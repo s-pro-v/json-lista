@@ -22,6 +22,7 @@
     }
   },
   "audit_log": [
+    "[4.03.2026, 15:46:19] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> JAKUBA",
     "[4.03.2026, 15:41:20] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> TomaszN",
     "[4.03.2026, 15:41:15] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> TOMASZN",
     "[4.03.2026, 15:39:25] ADMIN_ACTION: ODRZUCONO dostęp dla -> TOMASZN",
@@ -33,12 +34,9 @@
     "[4.03.2026, 09:14:59] AUTH_SUCCESS: Zalogowano węzeł -> JustynaS",
     "[4.03.2026, 09:08:49] AUTH_SUCCESS: Zalogowano węzeł -> RobertS"
   ],
-  "pending_2fa": {
-    "jakuba": {
-      "time": 1772635418754
-    }
-  },
+  "pending_2fa": {},
   "access_permissions": {
-    "roberts": "GRANTED"
+    "roberts": "GRANTED",
+    "jakuba": "GRANTED"
   }
 }

@@ -1,539 +1,62 @@
 {
-  "meta": {
-    "generated": "2026-03-04T07:32:46.411Z",
-    "days": [
-      "",
-      "",
-      ""
-    ],
-    "weekdays": [
-      "Password:",
-      "2FA",
-      "2FA Key:"
-    ],
-    "month": "Key"
-  },
+  "meta": {"generated":"2026-03-04T07:32:46.411Z","days":["","",""],"weekdays":["Password:","2FA","2FA Key:"],"month":"Key"},
   "workers": [
-    {
-      "id": "1",
-      "name": "AnitaK",
-      "shifts": [
-        "",
-        "TRUE",
-        "895471"
-      ]
-    },
-    {
-      "id": "2",
-      "name": "BogusławaK",
-      "shifts": [
-        "",
-        "FALSE",
-        "932746"
-      ]
-    },
-    {
-      "id": "3",
-      "name": "KatarzynaK",
-      "shifts": [
-        "",
-        "TRUE",
-        "185629"
-      ]
-    },
-    {
-      "id": "4",
-      "name": "EwelinaW",
-      "shifts": [
-        "",
-        "TRUE",
-        "741035"
-      ]
-    },
-    {
-      "id": "5",
-      "name": "KlaudiaJ",
-      "shifts": [
-        "",
-        "TRUE",
-        "258369"
-      ]
-    },
-    {
-      "id": "6",
-      "name": "TeresaM",
-      "shifts": [
-        "",
-        "TRUE",
-        "604192"
-      ]
-    },
-    {
-      "id": "7",
-      "name": "PiotrM",
-      "shifts": [
-        "",
-        "TRUE",
-        "473815"
-      ]
-    },
-    {
-      "id": "8",
-      "name": "BartoszK",
-      "shifts": [
-        "",
-        "FALSE",
-        "369107"
-      ]
-    },
-    {
-      "id": "9",
-      "name": "MonikaŚ",
-      "shifts": [
-        "",
-        "TRUE",
-        "582470"
-      ]
-    },
-    {
-      "id": "10",
-      "name": "DanutaD",
-      "shifts": [
-        "",
-        "TRUE",
-        "109583"
-      ]
-    },
-    {
-      "id": "11",
-      "name": "TeresaM",
-      "shifts": [
-        "",
-        "FALSE",
-        "826745"
-      ]
-    },
-    {
-      "id": "12",
-      "name": "JustynaR",
-      "shifts": [
-        "",
-        "TRUE",
-        "913504"
-      ]
-    },
-    {
-      "id": "13",
-      "name": "JustynaS",
-      "shifts": [
-        "",
-        "TRUE",
-        "547281"
-      ]
-    },
-    {
-      "id": "14",
-      "name": "DanielaS",
-      "shifts": [
-        "",
-        "FALSE",
-        "630948"
-      ]
-    },
-    {
-      "id": "15",
-      "name": "MartynaC",
-      "shifts": [
-        "",
-        "TRUE",
-        "275816"
-      ]
-    },
-    {
-      "id": "16",
-      "name": "EmiliaF",
-      "shifts": [
-        "",
-        "TRUE",
-        "401693"
-      ]
-    },
-    {
-      "id": "17",
-      "name": "AnnaF",
-      "shifts": [
-        "",
-        "FALSE",
-        "759320"
-      ]
-    },
-    {
-      "id": "18",
-      "name": "MagdalenaK",
-      "shifts": [
-        "",
-        "TRUE",
-        "384761"
-      ]
-    },
-    {
-      "id": "19",
-      "name": "JoannaS",
-      "shifts": [
-        "",
-        "TRUE",
-        "902517"
-      ]
-    },
-    {
-      "id": "20",
-      "name": "SylwiaI",
-      "shifts": [
-        "",
-        "FALSE",
-        "516384"
-      ]
-    },
-    {
-      "id": "21",
-      "name": "IwonaW",
-      "shifts": [
-        "",
-        "TRUE",
-        "728950"
-      ]
-    },
-    {
-      "id": "22",
-      "name": "JakubJ",
-      "shifts": [
-        "",
-        "TRUE",
-        "140367"
-      ]
-    },
-    {
-      "id": "23",
-      "name": "MarekMi",
-      "shifts": [
-        "",
-        "FALSE",
-        "693258"
-      ]
-    },
-    {
-      "id": "24",
-      "name": "RobertK",
-      "shifts": [
-        "",
-        "TRUE",
-        "817594"
-      ]
-    },
-    {
-      "id": "25",
-      "name": "TomaszN",
-      "shifts": [
-        "",
-        "TRUE",
-        "306429"
-      ]
-    },
-    {
-      "id": "26",
-      "name": "DariuszR",
-      "shifts": [
-        "",
-        "TRUE",
-        "458712"
-      ]
-    },
-    {
-      "id": "27",
-      "name": "DawidB",
-      "shifts": [
-        "",
-        "TRUE",
-        "931085"
-      ]
-    },
-    {
-      "id": "28",
-      "name": "RyszardB",
-      "shifts": [
-        "",
-        "TRUE",
-        "572460"
-      ]
-    },
-    {
-      "id": "29",
-      "name": "PiotrK",
-      "shifts": [
-        "",
-        "FALSE",
-        "269037"
-      ]
-    },
-    {
-      "id": "30",
-      "name": "MarekMa",
-      "shifts": [
-        "",
-        "TRUE",
-        "784156"
-      ]
-    },
-    {
-      "id": "31",
-      "name": "JakubP",
-      "shifts": [
-        "",
-        "TRUE",
-        "193528"
-      ]
-    },
-    {
-      "id": "32",
-      "name": "MirosławM",
-      "shifts": [
-        "",
-        "TRUE",
-        "607493"
-      ]
-    },
-    {
-      "id": "33",
-      "name": "ArturB",
-      "shifts": [
-        "",
-        "TRUE",
-        "425831"
-      ]
-    },
-    {
-      "id": "34",
-      "name": "PrzemysławM",
-      "shifts": [
-        "",
-        "TRUE",
-        "839170"
-      ]
-    },
-    {
-      "id": "35",
-      "name": "MarcinK",
-      "shifts": [
-        "",
-        "TRUE",
-        "350247"
-      ]
-    },
-    {
-      "id": "36",
-      "name": "HubertR",
-      "shifts": [
-        "",
-        "TRUE",
-        "961734"
-      ]
-    },
-    {
-      "id": "37",
-      "name": "GrzegorzK",
-      "shifts": [
-        "",
-        "TRUE",
-        "583401"
-      ]
-    },
-    {
-      "id": "38",
-      "name": "KamilS",
-      "shifts": [
-        "",
-        "TRUE",
-        "274960"
-      ]
-    },
-    {
-      "id": "39",
-      "name": "SvitlanaJ",
-      "shifts": [
-        "",
-        "TRUE",
-        "705823"
-      ]
-    },
-    {
-      "id": "40",
-      "name": "JerzyJ",
-      "shifts": [
-        "",
-        "TRUE",
-        "139285"
-      ]
-    },
-    {
-      "id": "41",
-      "name": "ŁukaszS",
-      "shifts": [
-        "",
-        "TRUE",
-        "650742"
-      ]
-    },
-    {
-      "id": "42",
-      "name": "RobertS",
-      "shifts": [
-        "",
-        "TRUE",
-        "862913"
-      ]
-    },
-    {
-      "id": "43",
-      "name": "ZbigniewS",
-      "shifts": [
-        "",
-        "TRUE",
-        "497035"
-      ]
-    },
-    {
-      "id": "44",
-      "name": "KarolD",
-      "shifts": [
-        "",
-        "TRUE",
-        "318679"
-      ]
-    },
-    {
-      "id": "45",
-      "name": "JakubC",
-      "shifts": [
-        "",
-        "TRUE",
-        "940528"
-      ]
-    },
-    {
-      "id": "46",
-      "name": "KaterynaS",
-      "shifts": [
-        "",
-        "TRUE",
-        "571360"
-      ]
-    },
-    {
-      "id": "47",
-      "name": "KamilaB",
-      "shifts": [
-        "",
-        "TRUE",
-        "208497"
-      ]
-    },
-    {
-      "id": "48",
-      "name": "ArkadiuszS",
-      "shifts": [
-        "",
-        "TRUE",
-        "734615"
-      ]
-    },
-    {
-      "id": "49",
-      "name": "JakubA",
-      "shifts": [
-        "",
-        "TRUE",
-        "165932"
-      ]
-    },
-    {
-      "id": "50",
-      "name": "RobertC",
-      "shifts": [
-        "",
-        "TRUE",
-        "680274"
-      ]
-    },
-    {
-      "id": "51",
-      "name": "MarcelK",
-      "shifts": [
-        "",
-        "TRUE",
-        "891340"
-      ]
-    },
-    {
-      "id": "52",
-      "name": "SebastianK",
-      "shifts": [
-        "",
-        "TRUE",
-        "402567"
-      ]
-    },
-    {
-      "id": "53",
-      "name": "JoannaK",
-      "shifts": [
-        "",
-        "TRUE",
-        "327189"
-      ]
-    },
-    {
-      "id": "54",
-      "name": "AdamK",
-      "shifts": [
-        "",
-        "TRUE",
-        "954806"
-      ]
-    },
-    {
-      "id": "55",
-      "name": "ArkadiuszŁ",
-      "shifts": [
-        "",
-        "TRUE",
-        "570631"
-      ]
-    },
-    {
-      "id": "56",
-      "name": "MaciejN",
-      "shifts": [
-        "",
-        "TRUE",
-        "296348"
-      ]
-    },
-    {
-      "id": "57",
-      "name": "DawidR",
-      "shifts": [
-        "",
-        "TRUE",
-        "718059"
-      ]
-    }
-  ],
-  "pending_2fa": {
-    "roberts": {
-      "time": 1772615286123
-    }
-  },
-  "access_permissions": {},
-  "active_sessions": {},
-  "audit_log": []
+    {"id":"1","name":"AnitaK","shifts":["","TRUE","895471"]},
+    {"id":"2","name":"BogusławaK","shifts":["","FALSE","932746"]},
+    {"id":"3","name":"KatarzynaK","shifts":["","TRUE","185629"]},
+    {"id":"4","name":"EwelinaW","shifts":["","TRUE","741035"]},
+    {"id":"5","name":"KlaudiaJ","shifts":["","TRUE","258369"]},
+    {"id":"6","name":"TeresaM","shifts":["","TRUE","604192"]},
+    {"id":"7","name":"PiotrM","shifts":["","TRUE","473815"]},
+    {"id":"8","name":"BartoszK","shifts":["","FALSE","369107"]},
+    {"id":"9","name":"MonikaŚ","shifts":["","TRUE","582470"]},
+    {"id":"10","name":"DanutaD","shifts":["","TRUE","109583"]},
+    {"id":"11","name":"TeresaM","shifts":["","FALSE","826745"]},
+    {"id":"12","name":"JustynaR","shifts":["","TRUE","913504"]},
+    {"id":"13","name":"JustynaS","shifts":["","TRUE","547281"]},
+    {"id":"14","name":"DanielaS","shifts":["","FALSE","630948"]},
+    {"id":"15","name":"MartynaC","shifts":["","TRUE","275816"]},
+    {"id":"16","name":"EmiliaF","shifts":["","TRUE","401693"]},
+    {"id":"17","name":"AnnaF","shifts":["","FALSE","759320"]},
+    {"id":"18","name":"MagdalenaK","shifts":["","TRUE","384761"]},
+    {"id":"19","name":"JoannaS","shifts":["","TRUE","902517"]},
+    {"id":"20","name":"SylwiaI","shifts":["","FALSE","516384"]},
+    {"id":"21","name":"IwonaW","shifts":["","TRUE","728950"]},
+    {"id":"22","name":"JakubJ","shifts":["","TRUE","140367"]},
+    {"id":"23","name":"MarekMi","shifts":["","FALSE","693258"]},
+    {"id":"24","name":"RobertK","shifts":["","TRUE","817594"]},
+    {"id":"25","name":"TomaszN","shifts":["","TRUE","306429"]},
+    {"id":"26","name":"DariuszR","shifts":["","TRUE","458712"]},
+    {"id":"27","name":"DawidB","shifts":["","TRUE","931085"]},
+    {"id":"28","name":"RyszardB","shifts":["","TRUE","572460"]},
+    {"id":"29","name":"PiotrK","shifts":["","FALSE","269037"]},
+    {"id":"30","name":"MarekMa","shifts":["","TRUE","784156"]},
+    {"id":"31","name":"JakubP","shifts":["","TRUE","193528"]},
+    {"id":"32","name":"MirosławM","shifts":["","TRUE","607493"]},
+    {"id":"33","name":"ArturB","shifts":["","TRUE","425831"]},
+    {"id":"34","name":"PrzemysławM","shifts":["","TRUE","839170"]},
+    {"id":"35","name":"MarcinK","shifts":["","TRUE","350247"]},
+    {"id":"36","name":"HubertR","shifts":["","TRUE","961734"]},
+    {"id":"37","name":"GrzegorzK","shifts":["","TRUE","583401"]},
+    {"id":"38","name":"KamilS","shifts":["","TRUE","274960"]},
+    {"id":"39","name":"SvitlanaJ","shifts":["","TRUE","705823"]},
+    {"id":"40","name":"JerzyJ","shifts":["","TRUE","139285"]},
+    {"id":"41","name":"ŁukaszS","shifts":["","TRUE","650742"]},
+    {"id":"42","name":"RobertS","shifts":["","TRUE","862913"]},
+    {"id":"43","name":"ZbigniewS","shifts":["","TRUE","497035"]},
+    {"id":"44","name":"KarolD","shifts":["","TRUE","318679"]},
+    {"id":"45","name":"JakubC","shifts":["","TRUE","940528"]},
+    {"id":"46","name":"KaterynaS","shifts":["","TRUE","571360"]},
+    {"id":"47","name":"KamilaB","shifts":["","TRUE","208497"]},
+    {"id":"48","name":"ArkadiuszS","shifts":["","TRUE","734615"]},
+    {"id":"49","name":"JakubA","shifts":["","TRUE","165932"]},
+    {"id":"50","name":"RobertC","shifts":["","TRUE","680274"]},
+    {"id":"51","name":"MarcelK","shifts":["","TRUE","891340"]},
+    {"id":"52","name":"SebastianK","shifts":["","TRUE","402567"]},
+    {"id":"53","name":"JoannaK","shifts":["","TRUE","327189"]},
+    {"id":"54","name":"AdamK","shifts":["","TRUE","954806"]},
+    {"id":"55","name":"ArkadiuszŁ","shifts":["","TRUE","570631"]},
+    {"id":"56","name":"MaciejN","shifts":["","TRUE","296348"]},
+    {"id":"57","name":"DawidR","shifts":["","TRUE","718059"]}
+  ]
 }

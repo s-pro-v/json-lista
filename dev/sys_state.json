@@ -3,7 +3,11 @@
   "audit_log": [
     "[4.03.2026, 15:52:33] ADMIN_ACTION: Wylogowano wszystkich (6)"
   ],
-  "pending_2fa": {},
+  "pending_2fa": {
+    "roberts": {
+      "time": 1772635989931
+    }
+  },
   "access_permissions": {
     "roberts": "GRANTED"
   }

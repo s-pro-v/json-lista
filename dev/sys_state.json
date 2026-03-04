@@ -19,9 +19,14 @@
     "tomaszn": {
       "original_name": "TomaszN",
       "last_active": 1772635280017
+    },
+    "jakuba": {
+      "original_name": "JakubA",
+      "last_active": 1772635624281
     }
   },
   "audit_log": [
+    "[4.03.2026, 15:47:04] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> JakubA",
     "[4.03.2026, 15:47:00] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> JAKUBA",
     "[4.03.2026, 15:46:19] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> JAKUBA",
     "[4.03.2026, 15:41:20] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> TomaszN",
@@ -37,7 +42,6 @@
   ],
   "pending_2fa": {},
   "access_permissions": {
-    "roberts": "GRANTED",
-    "jakuba": "GRANTED"
+    "roberts": "GRANTED"
   }
 }

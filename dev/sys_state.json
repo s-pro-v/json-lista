@@ -1,11 +1,6 @@
 {
-  "active_sessions": {
-    "magdalenak": {
-      "original_name": "MagdalenaK",
-      "last_active": 1772611404506
-    }
-  },
-  "audit_log": [
-    "[4.03.2026, 09:03:24] AUTH_SUCCESS: Zalogowano węzeł -> MagdalenaK"
-  ]
+  "active_sessions": {},
+  "audit_log": [],
+  "pending_2fa": {},
+  "access_permissions": {}
 }

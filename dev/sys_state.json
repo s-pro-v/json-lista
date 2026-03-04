@@ -11,9 +11,14 @@
     "magdalenak": {
       "original_name": "MagdalenaK",
       "last_active": 1772615874189
+    },
+    "karold": {
+      "original_name": "KarolD",
+      "last_active": 1772634994766
     }
   },
   "audit_log": [
+    "[4.03.2026, 15:36:34] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> KarolD",
     "[4.03.2026, 15:36:28] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> KAROLD",
     "[4.03.2026, 10:17:54] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> MagdalenaK",
     "[4.03.2026, 10:17:50] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> MAGDALENAK",
@@ -23,7 +28,6 @@
   ],
   "pending_2fa": {},
   "access_permissions": {
-    "roberts": "GRANTED",
-    "karold": "GRANTED"
+    "roberts": "GRANTED"
   }
 }

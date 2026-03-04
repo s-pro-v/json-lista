@@ -1,6 +1,13 @@
 {
-  "active_sessions": {},
-  "audit_log": [],
+  "active_sessions": {
+    "roberts": {
+      "original_name": "RobertS",
+      "last_active": 1772611729208
+    }
+  },
+  "audit_log": [
+    "[4.03.2026, 09:08:49] AUTH_SUCCESS: Zalogowano węzeł -> RobertS"
+  ],
   "pending_2fa": {},
   "access_permissions": {}
 }

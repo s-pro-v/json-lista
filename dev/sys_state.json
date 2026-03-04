@@ -29,7 +29,6 @@
   ],
   "pending_2fa": {},
   "access_permissions": {
-    "roberts": "GRANTED",
-    "tomaszn": "DENIED"
+    "roberts": "GRANTED"
   }
 }

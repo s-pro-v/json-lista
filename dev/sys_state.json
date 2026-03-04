@@ -1,31 +1,8 @@
 {
-  "active_sessions": {
-    "roberts": {
-      "original_name": "RobertS",
-      "last_active": 1772611729208
-    },
-    "justynas": {
-      "original_name": "JustynaS",
-      "last_active": 1772612099549
-    },
-    "magdalenak": {
-      "original_name": "MagdalenaK",
-      "last_active": 1772615874189
-    },
-    "karold": {
-      "original_name": "KarolD",
-      "last_active": 1772634994766
-    },
-    "tomaszn": {
-      "original_name": "TomaszN",
-      "last_active": 1772635280017
-    },
-    "jakuba": {
-      "original_name": "JakubA",
-      "last_active": 1772635624281
-    }
-  },
-  "audit_log": [],
+  "active_sessions": {},
+  "audit_log": [
+    "[4.03.2026, 15:52:33] ADMIN_ACTION: Wylogowano wszystkich (6)"
+  ],
   "pending_2fa": {},
   "access_permissions": {
     "roberts": "GRANTED"

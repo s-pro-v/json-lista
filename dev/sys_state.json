@@ -15,9 +15,14 @@
     "karold": {
       "original_name": "KarolD",
       "last_active": 1772634994766
+    },
+    "tomaszn": {
+      "original_name": "TomaszN",
+      "last_active": 1772635280017
     }
   },
   "audit_log": [
+    "[4.03.2026, 15:41:20] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> TomaszN",
     "[4.03.2026, 15:41:15] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> TOMASZN",
     "[4.03.2026, 15:39:25] ADMIN_ACTION: ODRZUCONO dostęp dla -> TOMASZN",
     "[4.03.2026, 15:36:34] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> KarolD",
@@ -30,7 +35,6 @@
   ],
   "pending_2fa": {},
   "access_permissions": {
-    "roberts": "GRANTED",
-    "tomaszn": "GRANTED"
+    "roberts": "GRANTED"
   }
 }

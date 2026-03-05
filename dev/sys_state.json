@@ -15,9 +15,14 @@
     "piotrm": {
       "original_name": "piotrm",
       "last_active": 1772749529209
+    },
+    "sebastiank": {
+      "original_name": "sebastiank",
+      "last_active": 1772750651536
     }
   },
   "audit_log": [
+    "[5.03.2026, 23:44:11] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> sebastiank",
     "[5.03.2026, 23:44:05] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> SEBASTIANK",
     "[5.03.2026, 23:34:29] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts",
     "[5.03.2026, 23:29:10] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts",
@@ -38,7 +43,6 @@
   ],
   "pending_2fa": {},
   "access_permissions": {
-    "roberts": "GRANTED",
-    "sebastiank": "GRANTED"
+    "roberts": "GRANTED"
   }
 }

@@ -11,9 +11,14 @@
     "tomaszn": {
       "original_name": "tomaszn",
       "last_active": 1772749320280
+    },
+    "piotrm": {
+      "original_name": "piotrm",
+      "last_active": 1772749529209
     }
   },
   "audit_log": [
+    "[5.03.2026, 23:25:29] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> piotrm",
     "[5.03.2026, 23:25:23] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> PIOTRM",
     "[5.03.2026, 23:22:00] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> tomaszn",
     "[5.03.2026, 23:21:55] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> TOMASZN",
@@ -29,7 +34,6 @@
   ],
   "pending_2fa": {},
   "access_permissions": {
-    "roberts": "GRANTED",
-    "piotrm": "GRANTED"
+    "roberts": "GRANTED"
   }
 }

@@ -9,6 +9,10 @@
     "[5.03.2026, 21:41:15] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> roberts",
     "[5.03.2026, 21:41:10] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> ROBERTS"
   ],
-  "pending_2fa": {},
+  "pending_2fa": {
+    "roberts": {
+      "time": 1772743769200
+    }
+  },
   "access_permissions": {}
 }

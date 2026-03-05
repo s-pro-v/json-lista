@@ -1,10 +1,14 @@
 {
-  "active_sessions": {},
+  "active_sessions": {
+    "roberts": {
+      "original_name": "roberts",
+      "last_active": 1772748290483
+    }
+  },
   "audit_log": [
+    "[5.03.2026, 23:04:50] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> roberts",
     "[5.03.2026, 23:04:46] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> ROBERTS"
   ],
   "pending_2fa": {},
-  "access_permissions": {
-    "roberts": "GRANTED"
-  }
+  "access_permissions": {}
 }

@@ -6,15 +6,14 @@
     }
   },
   "audit_log": [
+    "[5.03.2026, 22:01:01] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> TOMASZN",
     "[5.03.2026, 21:49:40] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> roberts",
     "[5.03.2026, 21:49:36] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> ROBERTS",
     "[5.03.2026, 21:41:15] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> roberts",
     "[5.03.2026, 21:41:10] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> ROBERTS"
   ],
-  "pending_2fa": {
-    "tomaszn": {
-      "time": 1772744455193
-    }
-  },
-  "access_permissions": {}
+  "pending_2fa": {},
+  "access_permissions": {
+    "tomaszn": "GRANTED"
+  }
 }

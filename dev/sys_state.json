@@ -7,9 +7,14 @@
     "annaf": {
       "original_name": "annaf",
       "last_active": 1772749223054
+    },
+    "tomaszn": {
+      "original_name": "tomaszn",
+      "last_active": 1772749320280
     }
   },
   "audit_log": [
+    "[5.03.2026, 23:22:00] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> tomaszn",
     "[5.03.2026, 23:21:55] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> TOMASZN",
     "[5.03.2026, 23:20:23] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> annaf",
     "[5.03.2026, 23:19:58] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> ROBERTS",
@@ -23,7 +28,6 @@
   ],
   "pending_2fa": {},
   "access_permissions": {
-    "roberts": "GRANTED",
-    "tomaszn": "GRANTED"
+    "roberts": "GRANTED"
   }
 }

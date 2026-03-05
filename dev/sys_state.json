@@ -1,6 +1,10 @@
 {
   "active_sessions": {},
   "audit_log": [],
-  "pending_2fa": {},
+  "pending_2fa": {
+    "roberts": {
+      "time": 1772748281578
+    }
+  },
   "access_permissions": {}
 }

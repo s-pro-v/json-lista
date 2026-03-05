@@ -5,13 +5,7 @@
       "last_active": 1772745212258
     }
   },
-  "audit_log": [
-    "[5.03.2026, 22:13:32] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> roberts",
-    "[5.03.2026, 22:13:29] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> ROBERTS",
-    "[5.03.2026, 22:13:20] ADMIN_ACTION: Wylogowano węzeł -> ROBERTS",
-    "[5.03.2026, 22:10:58] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> roberts",
-    "[5.03.2026, 22:10:55] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> ROBERTS"
-  ],
+  "audit_log": [],
   "pending_2fa": {},
   "access_permissions": {}
 }

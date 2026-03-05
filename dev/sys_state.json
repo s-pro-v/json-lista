@@ -18,6 +18,7 @@
     }
   },
   "audit_log": [
+    "[5.03.2026, 23:28:48] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> ROBERTS",
     "[5.03.2026, 23:25:29] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> piotrm",
     "[5.03.2026, 23:25:23] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> PIOTRM",
     "[5.03.2026, 23:22:00] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> tomaszn",
@@ -32,11 +33,7 @@
     "[5.03.2026, 23:04:50] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> roberts",
     "[5.03.2026, 23:04:46] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> ROBERTS"
   ],
-  "pending_2fa": {
-    "roberts": {
-      "time": 1772749654229
-    }
-  },
+  "pending_2fa": {},
   "access_permissions": {
     "roberts": "GRANTED"
   }

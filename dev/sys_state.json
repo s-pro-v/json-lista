@@ -35,7 +35,14 @@
     "[5.03.2026, 23:04:50] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> roberts",
     "[5.03.2026, 23:04:46] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> ROBERTS"
   ],
-  "pending_2fa": {},
+  "pending_2fa": {
+    "sebastiank": {
+      "time": 1772750633459,
+      "token": "402567",
+      "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+      "deviceShort": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gec..."
+    }
+  },
   "access_permissions": {
     "roberts": "GRANTED"
   }

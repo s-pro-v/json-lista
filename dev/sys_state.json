@@ -3,13 +3,10 @@
     "roberts": {
       "original_name": "roberts",
       "last_active": 1772745991038
-    },
-    "annaf": {
-      "original_name": "annaf",
-      "last_active": 1772747002789
     }
   },
   "audit_log": [
+    "[5.03.2026, 22:48:08] ADMIN_ACTION: Wylogowano węzeł -> ANNAF",
     "[5.03.2026, 22:43:22] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> annaf",
     "[5.03.2026, 22:43:17] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> ANNAF",
     "[5.03.2026, 22:26:31] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> roberts",

@@ -5,11 +5,11 @@
       "last_active": 1772743780849
     }
   },
-  "audit_log": [],
-  "pending_2fa": {
-    "roberts": {
-      "time": 1772745039179
-    }
-  },
-  "access_permissions": {}
+  "audit_log": [
+    "[5.03.2026, 22:10:55] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> ROBERTS"
+  ],
+  "pending_2fa": {},
+  "access_permissions": {
+    "roberts": "GRANTED"
+  }
 }

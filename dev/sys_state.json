@@ -6,10 +6,11 @@
     },
     "annaf": {
       "original_name": "annaf",
-      "last_active": 1772748653258
+      "last_active": 1772749223054
     }
   },
   "audit_log": [
+    "[5.03.2026, 23:20:23] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> annaf",
     "[5.03.2026, 23:19:58] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> ROBERTS",
     "[5.03.2026, 23:10:53] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> annaf",
     "[5.03.2026, 23:10:42] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> ANNAF",

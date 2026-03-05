@@ -7,13 +7,10 @@
     "annaf": {
       "original_name": "annaf",
       "last_active": 1772749223054
-    },
-    "tomaszn": {
-      "original_name": "tomaszn",
-      "last_active": 1772749320280
     }
   },
   "audit_log": [
+    "[6.03.2026, 00:33:20] ADMIN_ACTION: Wylogowano węzeł -> TOMASZN",
     "[6.03.2026, 00:33:19] ADMIN_ACTION: Wylogowano węzeł -> PIOTRM",
     "[6.03.2026, 00:33:17] ADMIN_ACTION: Wylogowano węzeł -> SEBASTIANK",
     "[5.03.2026, 23:44:11] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> sebastiank",

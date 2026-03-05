@@ -6,16 +6,15 @@
     }
   },
   "audit_log": [
+    "[5.03.2026, 22:48:16] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> ANNAF",
     "[5.03.2026, 22:48:08] ADMIN_ACTION: Wylogowano węzeł -> ANNAF",
     "[5.03.2026, 22:43:22] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> annaf",
     "[5.03.2026, 22:43:17] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> ANNAF",
     "[5.03.2026, 22:26:31] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> roberts",
     "[5.03.2026, 22:26:24] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> ROBERTS"
   ],
-  "pending_2fa": {
-    "annaf": {
-      "time": 1772747291846
-    }
-  },
-  "access_permissions": {}
+  "pending_2fa": {},
+  "access_permissions": {
+    "annaf": "GRANTED"
+  }
 }

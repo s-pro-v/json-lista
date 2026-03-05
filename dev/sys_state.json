@@ -5,18 +5,7 @@
       "last_active": 1772743780849
     }
   },
-  "audit_log": [
-    "[5.03.2026, 22:05:49] ADMIN_ACTION: Wylogowano węzeł -> TOMASZN",
-    "[5.03.2026, 22:03:49] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> tomaszn",
-    "[5.03.2026, 22:03:46] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> TOMASZN",
-    "[5.03.2026, 22:03:36] ADMIN_ACTION: Wylogowano węzeł -> TOMASZN",
-    "[5.03.2026, 22:01:05] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> tomaszn",
-    "[5.03.2026, 22:01:01] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> TOMASZN",
-    "[5.03.2026, 21:49:40] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> roberts",
-    "[5.03.2026, 21:49:36] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> ROBERTS",
-    "[5.03.2026, 21:41:15] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> roberts",
-    "[5.03.2026, 21:41:10] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> ROBERTS"
-  ],
+  "audit_log": [],
   "pending_2fa": {},
   "access_permissions": {}
 }

@@ -2,7 +2,7 @@
   "active_sessions": {
     "roberts": {
       "original_name": "roberts",
-      "last_active": 1772768779212
+      "last_active": 1772769973988
     },
     "annaf": {
       "original_name": "annaf",
@@ -10,6 +10,7 @@
     }
   },
   "audit_log": [
+    "[6.03.2026, 05:06:13] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts",
     "[6.03.2026, 05:05:40] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> annaf",
     "[6.03.2026, 04:46:19] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts"
   ],

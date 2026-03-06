@@ -2,10 +2,11 @@
   "active_sessions": {
     "roberts": {
       "original_name": "roberts",
-      "last_active": 1772773890453
+      "last_active": 1772774279789
     }
   },
   "audit_log": [
+    "[6.03.2026, 06:17:59] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts",
     "[6.03.2026, 06:11:30] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts",
     "[6.03.2026, 05:46:46] ADMIN_ACTION: Wylogowano wszystkich (0)"
   ],

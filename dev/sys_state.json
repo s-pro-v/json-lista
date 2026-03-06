@@ -2,7 +2,7 @@
   "active_sessions": {
     "roberts": {
       "original_name": "roberts",
-      "last_active": 1772769973988
+      "last_active": 1772771434057
     },
     "annaf": {
       "original_name": "annaf",
@@ -14,6 +14,7 @@
     }
   },
   "audit_log": [
+    "[6.03.2026, 05:30:34] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts",
     "[6.03.2026, 05:13:46] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> tomaszn",
     "[6.03.2026, 05:13:42] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> TOMASZN",
     "[6.03.2026, 05:13:33] ADMIN_ACTION: Wylogowano węzeł -> TOMASZN",

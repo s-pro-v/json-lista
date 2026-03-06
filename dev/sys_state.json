@@ -1,10 +1,12 @@
 {
   "active_sessions": {
     "roberts": {
-      "last_active": 1772775232918
+      "original_name": "roberts",
+      "last_active": 1772777327065
     }
   },
   "audit_log": [
+    "[6.03.2026, 07:08:47] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts",
     "[6.03.2026, 07:02:12] ADMIN_ACTION: Wylogowano węzeł -> TOMASZN",
     "[6.03.2026, 07:01:35] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> tomaszn",
     "[6.03.2026, 07:01:32] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> TOMASZN",

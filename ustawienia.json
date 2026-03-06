@@ -20,19 +20,19 @@
     },
     {
       "min": 13,
-      "max": 21,
+      "max": 20,
       "code": "k",
       "name": "SEKCJA K"
     },
     {
-      "min": 20,
-      "max": 42,
+      "min": 21,
+      "max": 40,
       "code": "m",
       "name": "SEKCJA M"
     },
     {
       "min": 41,
-      "max": 65,
+      "max": 999999,
       "code": "y",
       "name": "SEKCJA Y"
     }

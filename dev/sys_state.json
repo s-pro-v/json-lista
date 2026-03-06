@@ -1,6 +1,8 @@
 {
   "active_sessions": {},
-  "audit_log": [],
+  "audit_log": [
+    "[6.03.2026, 05:46:46] ADMIN_ACTION: Wylogowano wszystkich (0)"
+  ],
   "pending_2fa": {},
   "access_permissions": {
     "roberts": "GRANTED"

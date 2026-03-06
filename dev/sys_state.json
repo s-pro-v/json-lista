@@ -3,15 +3,13 @@
     "roberts": {
       "last_active": 1772775232918
     },
-    "annaf": {
-      "last_active": 1772775686063
-    },
     "tomaszn": {
       "original_name": "tomaszn",
       "last_active": 1772774845812
     }
   },
   "audit_log": [
+    "[6.03.2026, 06:44:06] ADMIN_ACTION: Wylogowano węzeł -> ANNAF",
     "[06:41:26] AUTH: ANNAF LOGIN SUCCESS",
     "[06:41:23] ADMIN: RESOLVED annaf AS GRANTED",
     "[06:34:09] ADMIN_ACTION: GRANTED dla roberts",

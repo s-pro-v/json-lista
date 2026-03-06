@@ -1,6 +1,12 @@
 {
-  "active_sessions": {},
+  "active_sessions": {
+    "roberts": {
+      "original_name": "roberts",
+      "last_active": 1772774576978
+    }
+  },
   "audit_log": [
+    "[6.03.2026, 06:22:56] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts",
     "[6.03.2026, 06:22:53] ADMIN_ACTION: Wylogowano węzeł -> ROBERTS",
     "[6.03.2026, 06:17:59] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts",
     "[6.03.2026, 06:11:30] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts",

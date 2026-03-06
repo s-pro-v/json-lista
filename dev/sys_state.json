@@ -28,7 +28,14 @@
     "[6.03.2026, 05:05:40] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> annaf",
     "[6.03.2026, 04:46:19] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts"
   ],
-  "pending_2fa": {},
+  "pending_2fa": {
+    "tomaszn": {
+      "time": 1772771857107,
+      "token": "306429",
+      "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+      "deviceShort": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gec..."
+    }
+  },
   "access_permissions": {
     "roberts": "GRANTED"
   }

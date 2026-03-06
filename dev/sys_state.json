@@ -13,6 +13,7 @@
     }
   },
   "audit_log": [
+    "[06:34:09] ADMIN_ACTION: GRANTED dla roberts",
     "[6.03.2026, 06:27:25] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> tomaszn",
     "[6.03.2026, 06:27:15] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> TOMASZN",
     "[6.03.2026, 06:25:49] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> annaf",
@@ -22,12 +23,8 @@
     "[6.03.2026, 06:11:30] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts",
     "[6.03.2026, 05:46:46] ADMIN_ACTION: Wylogowano wszystkich (0)"
   ],
-  "pending_2fa": {
-    "roberts": {
-      "time": 1772775226568,
-      "token": "665544",
-      "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-    }
-  },
-  "access_permissions": {}
+  "pending_2fa": {},
+  "access_permissions": {
+    "roberts": "GRANTED"
+  }
 }

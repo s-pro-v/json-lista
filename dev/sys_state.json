@@ -3,9 +3,13 @@
     "roberts": {
       "original_name": "roberts",
       "last_active": 1772785519853
+    },
+    "annaf": {
+      "last_active": 1772785894400
     }
   },
   "audit_log": [
+    "[09:31:34] AUTH_SUCCESS: ANNAF UZYSKAŁ DOSTĘP",
     "[6.03.2026, 09:31:29] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> ANNAF",
     "[6.03.2026, 09:25:19] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts",
     "[6.03.2026, 07:22:22] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts",
@@ -39,7 +43,6 @@
   ],
   "pending_2fa": {},
   "access_permissions": {
-    "roberts": "GRANTED",
-    "annaf": "GRANTED"
+    "roberts": "GRANTED"
   }
 }

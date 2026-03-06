@@ -1,6 +1,13 @@
 {
-  "active_sessions": {},
-  "audit_log": [],
+  "active_sessions": {
+    "roberts": {
+      "original_name": "roberts",
+      "last_active": 1772768779212
+    }
+  },
+  "audit_log": [
+    "[6.03.2026, 04:46:19] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts"
+  ],
   "pending_2fa": {},
   "access_permissions": {
     "roberts": "GRANTED"

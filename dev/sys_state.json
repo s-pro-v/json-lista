@@ -10,10 +10,11 @@
     },
     "tomaszn": {
       "original_name": "tomaszn",
-      "last_active": 1772770426286
+      "last_active": 1772771875249
     }
   },
   "audit_log": [
+    "[6.03.2026, 05:37:55] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> tomaszn",
     "[6.03.2026, 05:37:50] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> TOMASZN",
     "[6.03.2026, 05:30:34] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts",
     "[6.03.2026, 05:13:46] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> tomaszn",
@@ -31,7 +32,6 @@
   ],
   "pending_2fa": {},
   "access_permissions": {
-    "roberts": "GRANTED",
-    "tomaszn": "GRANTED"
+    "roberts": "GRANTED"
   }
 }

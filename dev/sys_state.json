@@ -3,9 +3,14 @@
     "roberts": {
       "original_name": "roberts",
       "last_active": 1772786357663
+    },
+    "martynac": {
+      "original_name": "martynac",
+      "last_active": 1772861905705
     }
   },
   "audit_log": [
+    "[7.03.2026, 06:38:25] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> martynac",
     "[6.03.2026, 09:39:17] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts"
   ],
   "pending_2fa": {},

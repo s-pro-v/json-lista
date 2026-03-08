@@ -3,13 +3,10 @@
     "roberts": {
       "original_name": "roberts",
       "last_active": 1772935400557
-    },
-    "martynac": {
-      "original_name": "martynac",
-      "last_active": 1772987396760
     }
   },
   "audit_log": [
+    "[8.03.2026, 17:31:10] ADMIN_ACTION: Wylogowano węzeł -> MARTYNAC",
     "[8.03.2026, 17:29:56] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> martynac",
     "[8.03.2026, 16:45:55] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> martynac"
   ],

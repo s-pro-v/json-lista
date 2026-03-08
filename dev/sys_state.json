@@ -9,20 +9,7 @@
       "last_active": 1772908889158
     }
   },
-  "audit_log": [
-    "[8.03.2026, 03:49:02] ADMIN_ACTION: Wylogowano węzeł -> JAKUBC",
-    "[8.03.2026, 03:48:59] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> JAKUBC",
-    "[8.03.2026, 03:48:48] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> jakubc",
-    "[8.03.2026, 03:47:50] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> JAKUBC",
-    "[8.03.2026, 03:03:20] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts",
-    "[8.03.2026, 03:02:30] ADMIN_ACTION: Wylogowano węzeł -> JAKUBC",
-    "[8.03.2026, 03:01:32] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> jakubc",
-    "[8.03.2026, 03:01:26] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> JAKUBC",
-    "[7.03.2026, 19:41:29] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> martynac",
-    "[7.03.2026, 10:30:56] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> martynac",
-    "[7.03.2026, 06:38:25] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> martynac",
-    "[6.03.2026, 09:39:17] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts"
-  ],
+  "audit_log": [],
   "pending_2fa": {},
   "access_permissions": {
     "roberts": "GRANTED",

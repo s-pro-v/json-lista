@@ -7,13 +7,10 @@
     "martynac": {
       "original_name": "martynac",
       "last_active": 1772987507607
-    },
-    "justynas": {
-      "original_name": "justynas",
-      "last_active": 1772989312352
     }
   },
   "audit_log": [
+    "[8.03.2026, 18:33:35] ADMIN_ACTION: Wylogowano węzeł -> JUSTYNAS",
     "[8.03.2026, 18:33:34] ADMIN_ACTION: Wylogowano węzeł -> PIOTRP",
     "[8.03.2026, 18:33:00] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> piotrp",
     "[8.03.2026, 18:32:52] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> PIOTRP",

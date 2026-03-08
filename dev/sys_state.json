@@ -9,31 +9,7 @@
       "last_active": 1772987507607
     }
   },
-  "audit_log": [
-    "[8.03.2026, 20:21:44] ADMIN_ACTION: Wylogowano węzeł -> PIOTRP",
-    "[8.03.2026, 18:52:08] ADMIN_ACTION: Wylogowano węzeł -> TOMASZN",
-    "[8.03.2026, 18:52:06] ADMIN_ACTION: Wylogowano węzeł -> JUSTYNAS",
-    "[8.03.2026, 18:51:16] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> justynas",
-    "[8.03.2026, 18:49:05] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts",
-    "[8.03.2026, 18:47:49] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> tomaszn",
-    "[8.03.2026, 18:34:53] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts",
-    "[8.03.2026, 18:34:12] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> piotrp",
-    "[8.03.2026, 18:33:35] ADMIN_ACTION: Wylogowano węzeł -> JUSTYNAS",
-    "[8.03.2026, 18:33:34] ADMIN_ACTION: Wylogowano węzeł -> PIOTRP",
-    "[8.03.2026, 18:33:00] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> piotrp",
-    "[8.03.2026, 18:32:52] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> PIOTRP",
-    "[8.03.2026, 18:32:28] ADMIN_ACTION: Wylogowano węzeł -> PIOTRP",
-    "[8.03.2026, 18:32:19] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> piotrp",
-    "[8.03.2026, 18:32:06] ADMIN_ACTION: Wylogowano węzeł -> PIOTRP",
-    "[8.03.2026, 18:31:58] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> piotrp",
-    "[8.03.2026, 18:31:50] ADMIN_ACTION: Wylogowano węzeł -> PIOTRP",
-    "[8.03.2026, 18:31:33] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> piotrp",
-    "[8.03.2026, 18:01:52] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> justynas",
-    "[8.03.2026, 17:31:47] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> martynac",
-    "[8.03.2026, 17:31:10] ADMIN_ACTION: Wylogowano węzeł -> MARTYNAC",
-    "[8.03.2026, 17:29:56] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> martynac",
-    "[8.03.2026, 16:45:55] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> martynac"
-  ],
+  "audit_log": [],
   "pending_2fa": {},
   "access_permissions": {
     "roberts": "GRANTED",

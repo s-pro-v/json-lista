@@ -6,10 +6,12 @@
     },
     "martynac": {
       "original_name": "martynac",
-      "last_active": 1772908889158
+      "last_active": 1772984755195
     }
   },
-  "audit_log": [],
+  "audit_log": [
+    "[8.03.2026, 16:45:55] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> martynac"
+  ],
   "pending_2fa": {},
   "access_permissions": {
     "roberts": "GRANTED",

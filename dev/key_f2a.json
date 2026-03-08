@@ -15,527 +15,537 @@
   },
   "workers": [
     {
-      "id": "1",
-      "name": "anitak",
-      "shifts": [
+
+    "id": "1",
+    "name": "anitak",
+    "shifts": [
         "",
         "TRUE",
         "895471",
         "FALSE"
-      ]
-    },
-    {
-      "id": "2",
-      "name": "bogusławak",
-      "shifts": [
+    ]
+},
+{
+    "id": "2",
+    "name": "bogusławak",
+    "shifts": [
         "",
         "TRUE",
         "932746",
         "TRUE"
-      ]
-    },
-    {
-      "id": "3",
-      "name": "katarzynak",
-      "shifts": [
+    ]
+},
+{
+    "id": "3",
+    "name": "katarzynak",
+    "shifts": [
         "",
         "TRUE",
         "185629"
-      ]
-    },
-    {
-      "id": "4",
-      "name": "ewelinaw",
-      "shifts": [
+    ]
+},
+{
+    "id": "4",
+    "name": "ewelinaw",
+    "shifts": [
         "",
         "TRUE",
         "741035",
         "TRUE"
-      ]
-    },
-    {
-      "id": "5",
-      "name": "klaudiaj",
-      "shifts": [
+    ]
+},
+{
+    "id": "5",
+    "name": "klaudiaj",
+    "shifts": [
         "",
         "TRUE",
         "258369"
-      ]
-    },
-    {
-      "id": "6",
-      "name": "teresam",
-      "shifts": [
+    ]
+},
+{
+    "id": "6",
+    "name": "teresam",
+    "shifts": [
         "",
         "TRUE",
         "604192"
-      ]
-    },
-    {
-      "id": "7",
-      "name": "piotrm",
-      "shifts": [
+    ]
+},
+{
+    "id": "7",
+    "name": "piotrm",
+    "shifts": [
         "",
         "TRUE",
         "473815"
-      ]
-    },
-    {
-      "id": "8",
-      "name": "bartoszk",
-      "shifts": [
+    ]
+},
+{
+    "id": "8",
+    "name": "bartoszk",
+    "shifts": [
         "",
         "TRUE",
         "369107"
-      ]
-    },
-    {
-      "id": "9",
-      "name": "monikaś",
-      "shifts": [
+    ]
+},
+{
+    "id": "9",
+    "name": "monikaś",
+    "shifts": [
         "",
         "TRUE",
         "582470"
-      ]
-    },
-    {
-      "id": "10",
-      "name": "danutad",
-      "shifts": [
+    ]
+},
+{
+    "id": "10",
+    "name": "danutad",
+    "shifts": [
         "",
         "TRUE",
         "109583"
-      ]
-    },
-    {
-      "id": "11",
-      "name": "teresam",
-      "shifts": [
+    ]
+},
+{
+    "id": "11",
+    "name": "teresam",
+    "shifts": [
         "",
         "TRUE",
         "826745"
-      ]
-    },
-    {
-      "id": "12",
-      "name": "justynar",
-      "shifts": [
+    ]
+},
+{
+    "id": "12",
+    "name": "justynar",
+    "shifts": [
         "",
         "TRUE",
         "913504"
-      ]
-    },
-    {
-      "id": "13",
-      "name": "justynas",
-      "shifts": [
+    ]
+},
+{
+    "id": "13",
+    "name": "justynas",
+    "shifts": [
         "",
         "TRUE",
         "547281",
         "TRUE"
-      ]
-    },
-    {
-      "id": "14",
-      "name": "danielas",
-      "shifts": [
+    ]
+},
+{
+    "id": "14",
+    "name": "danielas",
+    "shifts": [
         "",
         "TRUE",
         "630948"
-      ]
-    },
-    {
-      "id": "15",
-      "name": "martynac",
-      "shifts": [
+    ]
+},
+{
+    "id": "15",
+    "name": "martynac",
+    "shifts": [
         "",
         "TRUE",
         "275816",
         "TRUE"
-      ]
-    },
-    {
-      "id": "16",
-      "name": "emiliaf",
-      "shifts": [
+    ]
+},
+{
+    "id": "16",
+    "name": "emiliaf",
+    "shifts": [
         "",
         "TRUE",
         "401693",
         "TRUE"
-      ]
-    },
-    {
-      "id": "17",
-      "name": "annaf",
-      "shifts": [
+    ]
+},
+{
+    "id": "17",
+    "name": "annaf",
+    "shifts": [
         "",
         "TRUE",
         "759320",
         "TRUE"
-      ]
-    },
-    {
-      "id": "18",
-      "name": "magdalenak",
-      "shifts": [
+    ]
+},
+{
+    "id": "18",
+    "name": "magdalenak",
+    "shifts": [
         "",
         "TRUE",
         "384761"
-      ]
-    },
-    {
-      "id": "19",
-      "name": "joannas",
-      "shifts": [
+    ]
+},
+{
+    "id": "19",
+    "name": "joannas",
+    "shifts": [
         "",
         "TRUE",
         "902517"
-      ]
-    },
-    {
-      "id": "20",
-      "name": "sylwiai",
-      "shifts": [
+    ]
+},
+{
+    "id": "20",
+    "name": "sylwiai",
+    "shifts": [
         "",
         "TRUE",
         "516384"
-      ]
-    },
-    {
-      "id": "21",
-      "name": "iwonaw",
-      "shifts": [
+    ]
+},
+{
+    "id": "21",
+    "name": "iwonaw",
+    "shifts": [
         "",
         "TRUE",
         "728950"
-      ]
-    },
-    {
-      "id": "22",
-      "name": "jakubj",
-      "shifts": [
+    ]
+},
+{
+    "id": "22",
+    "name": "jakubj",
+    "shifts": [
         "",
         "TRUE",
         "140367"
-      ]
-    },
-    {
-      "id": "23",
-      "name": "marekmi",
-      "shifts": [
+    ]
+},
+{
+    "id": "23",
+    "name": "marekmi",
+    "shifts": [
         "",
         "TRUE",
         "693258"
-      ]
-    },
-    {
-      "id": "24",
-      "name": "robertk",
-      "shifts": [
+    ]
+},
+{
+    "id": "24",
+    "name": "robertk",
+    "shifts": [
         "",
         "TRUE",
         "817594",
         "TRUE"
-      ]
-    },
-    {
-      "id": "25",
-      "name": "tomaszn",
-      "shifts": [
+    ]
+},
+{
+    "id": "25",
+    "name": "tomaszn",
+    "shifts": [
         "",
         "TRUE",
         "306429"
-      ]
-    },
-    {
-      "id": "26",
-      "name": "dariuszr",
-      "shifts": [
+    ]
+},
+{
+    "id": "26",
+    "name": "dariuszr",
+    "shifts": [
         "",
         "TRUE",
         "458712",
         "TRUE"
-      ]
-    },
-    {
-      "id": "27",
-      "name": "dawidb",
-      "shifts": [
+    ]
+},
+{
+    "id": "27",
+    "name": "dawidb",
+    "shifts": [
         "",
         "TRUE",
         "931085"
-      ]
-    },
-    {
-      "id": "28",
-      "name": "ryszardb",
-      "shifts": [
+    ]
+},
+{
+    "id": "28",
+    "name": "ryszardb",
+    "shifts": [
         "",
         "TRUE",
         "572460",
         "TRUE"
-      ]
-    },
-    {
-      "id": "29",
-      "name": "piotrk",
-      "shifts": [
+    ]
+},
+{
+    "id": "29",
+    "name": "piotrk",
+    "shifts": [
         "",
         "TRUE",
         "269037"
-      ]
-    },
-    {
-      "id": "30",
-      "name": "marekma",
-      "shifts": [
+    ]
+},
+{
+    "id": "30",
+    "name": "marekma",
+    "shifts": [
         "",
         "TRUE",
         "784156"
-      ]
-    },
-    {
-      "id": "31",
-      "name": "jakubp",
-      "shifts": [
+    ]
+},
+{
+    "id": "31",
+    "name": "jakubp",
+    "shifts": [
         "",
         "TRUE",
         "193528"
-      ]
-    },
-    {
-      "id": "32",
-      "name": "mirosławm",
-      "shifts": [
+    ]
+},
+{
+    "id": "32",
+    "name": "mirosławm",
+    "shifts": [
         "",
         "TRUE",
         "607493"
-      ]
-    },
-    {
-      "id": "33",
-      "name": "arturb",
-      "shifts": [
+    ]
+},
+{
+    "id": "33",
+    "name": "arturb",
+    "shifts": [
         "",
         "TRUE",
         "425831"
-      ]
-    },
-    {
-      "id": "34",
-      "name": "przemysławm",
-      "shifts": [
+    ]
+},
+{
+    "id": "34",
+    "name": "przemysławm",
+    "shifts": [
         "",
         "TRUE",
         "839170"
-      ]
-    },
-    {
-      "id": "35",
-      "name": "marcink",
-      "shifts": [
+    ]
+},
+{
+    "id": "35",
+    "name": "marcink",
+    "shifts": [
         "",
         "TRUE",
         "350247"
-      ]
-    },
-    {
-      "id": "36",
-      "name": "hubertr",
-      "shifts": [
+    ]
+},
+{
+    "id": "36",
+    "name": "hubertr",
+    "shifts": [
         "",
         "TRUE",
         "961734"
-      ]
-    },
-    {
-      "id": "37",
-      "name": "grzegorzk",
-      "shifts": [
+    ]
+},
+{
+    "id": "37",
+    "name": "grzegorzk",
+    "shifts": [
         "",
         "TRUE",
         "583401"
-      ]
-    },
-    {
-      "id": "38",
-      "name": "kamils",
-      "shifts": [
+    ]
+},
+{
+    "id": "38",
+    "name": "kamils",
+    "shifts": [
         "",
         "TRUE",
         "274960"
-      ]
-    },
-    {
-      "id": "39",
-      "name": "svitlanaj",
-      "shifts": [
+    ]
+},
+{
+    "id": "39",
+    "name": "svitlanaj",
+    "shifts": [
         "",
         "TRUE",
         "705823"
-      ]
-    },
-    {
-      "id": "40",
-      "name": "jerzyj",
-      "shifts": [
+    ]
+},
+{
+    "id": "40",
+    "name": "jerzyj",
+    "shifts": [
         "",
         "TRUE",
         "139285"
-      ]
-    },
-    {
-      "id": "41",
-      "name": "łukaszs",
-      "shifts": [
+    ]
+},
+{
+    "id": "41",
+    "name": "łukaszs",
+    "shifts": [
         "",
         "TRUE",
         "650742"
-      ]
-    },
-    {
-      "id": "42",
-      "name": "roberts",
-      "shifts": [
+    ]
+},
+{
+    "id": "42",
+    "name": "roberts",
+    "shifts": [
         "",
         "TRUE",
         "862913"
-      ]
-    },
-    {
-      "id": "43",
-      "name": "zbigniews",
-      "shifts": [
+    ]
+},
+{
+    "id": "43",
+    "name": "zbigniews",
+    "shifts": [
         "",
         "TRUE",
         "497035"
-      ]
-    },
-    {
-      "id": "44",
-      "name": "karold",
-      "shifts": [
+    ]
+},
+{
+    "id": "44",
+    "name": "karold",
+    "shifts": [
         "",
         "TRUE",
         "318679"
-      ]
-    },
-    {
-      "id": "45",
-      "name": "jakubc",
-      "shifts": [
+    ]
+},
+{
+    "id": "45",
+    "name": "jakubc",
+    "shifts": [
         "",
         "TRUE",
         "940528"
-      ]
-    },
-    {
-      "id": "46",
-      "name": "katerynas",
-      "shifts": [
+    ]
+},
+{
+    "id": "46",
+    "name": "katerynas",
+    "shifts": [
         "",
         "TRUE",
         "571360"
-      ]
-    },
-    {
-      "id": "47",
-      "name": "kamilab",
-      "shifts": [
+    ]
+},
+{
+    "id": "47",
+    "name": "kamilab",
+    "shifts": [
         "",
         "TRUE",
         "208497"
-      ]
-    },
-    {
-      "id": "48",
-      "name": "arkadiuszs",
-      "shifts": [
+    ]
+},
+{
+    "id": "48",
+    "name": "arkadiuszs",
+    "shifts": [
         "",
         "TRUE",
         "734615"
-      ]
-    },
-    {
-      "id": "49",
-      "name": "jakuba",
-      "shifts": [
+    ]
+},
+{
+    "id": "49",
+    "name": "jakuba",
+    "shifts": [
         "",
         "TRUE",
         "165932"
-      ]
-    },
-    {
-      "id": "50",
-      "name": "robertc",
-      "shifts": [
+    ]
+},
+{
+    "id": "50",
+    "name": "robertc",
+    "shifts": [
         "",
         "TRUE",
         "680274"
-      ]
-    },
-    {
-      "id": "51",
-      "name": "marcelk",
-      "shifts": [
+    ]
+},
+{
+    "id": "51",
+    "name": "marcelk",
+    "shifts": [
         "",
         "TRUE",
         "891340"
-      ]
-    },
-    {
-      "id": "52",
-      "name": "sebastiank",
-      "shifts": [
+    ]
+},
+{
+    "id": "52",
+    "name": "sebastiank",
+    "shifts": [
         "",
         "TRUE",
         "402567"
-      ]
-    },
-    {
-      "id": "53",
-      "name": "joannak",
-      "shifts": [
+    ]
+},
+{
+    "id": "53",
+    "name": "joannak",
+    "shifts": [
         "",
         "TRUE",
         "327189"
-      ]
-    },
-    {
-      "id": "54",
-      "name": "adamk",
-      "shifts": [
+    ]
+},
+{
+    "id": "54",
+    "name": "adamk",
+    "shifts": [
         "",
         "TRUE",
         "954806"
-      ]
-    },
-    {
-      "id": "55",
-      "name": "arkadiuszł",
-      "shifts": [
+    ]
+},
+{
+    "id": "55",
+    "name": "arkadiuszł",
+    "shifts": [
         "",
         "TRUE",
         "570631"
-      ]
-    },
-    {
-      "id": "56",
-      "name": "maciejn",
-      "shifts": [
+    ]
+},
+{
+    "id": "56",
+    "name": "maciejn",
+    "shifts": [
         "",
         "TRUE",
         "296348"
-      ]
-    },
-    {
-      "id": "57",
-      "name": "dawidr",
-      "shifts": [
+    ]
+},
+{
+    "id": "57",
+    "name": "dawidr",
+    "shifts": [
         "",
         "TRUE",
         "718059"
-      ]
-    }
+    ]
+},
+{
+    "id": "58",
+    "name": "piotrp",
+    "shifts": [
+        "",
+        "TRUE",
+        "262037"
+    ]
+}
   ]
 }

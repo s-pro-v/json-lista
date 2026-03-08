@@ -14,6 +14,7 @@
     }
   },
   "audit_log": [
+    "[8.03.2026, 18:32:52] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> PIOTRP",
     "[8.03.2026, 18:32:28] ADMIN_ACTION: Wylogowano węzeł -> PIOTRP",
     "[8.03.2026, 18:32:19] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> piotrp",
     "[8.03.2026, 18:32:06] ADMIN_ACTION: Wylogowano węzeł -> PIOTRP",
@@ -26,16 +27,10 @@
     "[8.03.2026, 17:29:56] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> martynac",
     "[8.03.2026, 16:45:55] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> martynac"
   ],
-  "pending_2fa": {
-    "piotrp": {
-      "time": 1772991170811,
-      "token": "262037",
-      "device": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/29.0 Chrome/136.0.0.0 Mobile Safari/537.36",
-      "deviceShort": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Sam..."
-    }
-  },
+  "pending_2fa": {},
   "access_permissions": {
     "roberts": "GRANTED",
-    "jakubc": "GRANTED"
+    "jakubc": "GRANTED",
+    "piotrp": "GRANTED"
   }
 }

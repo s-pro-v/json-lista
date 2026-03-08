@@ -10,20 +10,15 @@
     }
   },
   "audit_log": [
+    "[8.03.2026, 03:01:26] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> JAKUBC",
     "[7.03.2026, 19:41:29] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> martynac",
     "[7.03.2026, 10:30:56] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> martynac",
     "[7.03.2026, 06:38:25] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> martynac",
     "[6.03.2026, 09:39:17] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts"
   ],
-  "pending_2fa": {
-    "jakubc": {
-      "time": 1772935256743,
-      "token": "940528",
-      "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
-      "deviceShort": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gec..."
-    }
-  },
+  "pending_2fa": {},
   "access_permissions": {
-    "roberts": "GRANTED"
+    "roberts": "GRANTED",
+    "jakubc": "GRANTED"
   }
 }

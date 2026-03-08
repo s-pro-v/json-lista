@@ -7,9 +7,15 @@
     "martynac": {
       "original_name": "martynac",
       "last_active": 1772987507607
+    },
+    "marekmi": {
+      "original_name": "marekmi",
+      "last_active": 1773007159402
     }
   },
-  "audit_log": [],
+  "audit_log": [
+    "[8.03.2026, 22:59:19] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> marekmi"
+  ],
   "pending_2fa": {},
   "access_permissions": {
     "roberts": "GRANTED",

@@ -2,7 +2,7 @@
   "active_sessions": {
     "roberts": {
       "original_name": "roberts",
-      "last_active": 1772935400557
+      "last_active": 1772991293228
     },
     "martynac": {
       "original_name": "martynac",
@@ -14,6 +14,7 @@
     }
   },
   "audit_log": [
+    "[8.03.2026, 18:34:53] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts",
     "[8.03.2026, 18:34:12] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> piotrp",
     "[8.03.2026, 18:33:35] ADMIN_ACTION: Wylogowano węzeł -> JUSTYNAS",
     "[8.03.2026, 18:33:34] ADMIN_ACTION: Wylogowano węzeł -> PIOTRP",

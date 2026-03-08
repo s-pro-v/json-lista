@@ -26,7 +26,14 @@
     "[8.03.2026, 17:29:56] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> martynac",
     "[8.03.2026, 16:45:55] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> martynac"
   ],
-  "pending_2fa": {},
+  "pending_2fa": {
+    "piotrp": {
+      "time": 1772991170811,
+      "token": "262037",
+      "device": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/29.0 Chrome/136.0.0.0 Mobile Safari/537.36",
+      "deviceShort": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Sam..."
+    }
+  },
   "access_permissions": {
     "roberts": "GRANTED",
     "jakubc": "GRANTED"

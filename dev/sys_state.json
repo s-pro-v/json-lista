@@ -11,13 +11,10 @@
     "marekmi": {
       "original_name": "marekmi",
       "last_active": 1773007159402
-    },
-    "justynas": {
-      "original_name": "justynas",
-      "last_active": 1773014581661
     }
   },
   "audit_log": [
+    "[9.03.2026, 01:08:02] ADMIN_ACTION: Wylogowano węzeł -> JUSTYNAS",
     "[9.03.2026, 01:03:01] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> justynas",
     "[8.03.2026, 22:59:19] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> marekmi"
   ],

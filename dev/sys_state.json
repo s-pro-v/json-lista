@@ -3,13 +3,11 @@
     "roberts": {
       "original_name": "roberts",
       "last_active": 1773037892674
-    },
-    "martynac": {
-      "original_name": "martynac",
-      "last_active": 1772987507607
     }
   },
-  "audit_log": [],
+  "audit_log": [
+    "[9.03.2026, 11:04:42] ADMIN_ACTION: Wylogowano węzeł -> MARTYNAC"
+  ],
   "pending_2fa": {},
   "access_permissions": {
     "roberts": "GRANTED",

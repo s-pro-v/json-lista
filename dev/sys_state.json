@@ -15,13 +15,11 @@
     "tomaszn": {
       "original_name": "tomaszn",
       "last_active": 1773016305344
-    },
-    "justynas": {
-      "original_name": "justynas",
-      "last_active": 1773017439225
     }
   },
-  "audit_log": [],
+  "audit_log": [
+    "[9.03.2026, 02:36:18] ADMIN_ACTION: Wylogowano węzeł -> JUSTYNAS"
+  ],
   "pending_2fa": {},
   "access_permissions": {
     "roberts": "GRANTED",

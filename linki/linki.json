@@ -401,6 +401,11 @@
       "id": "pixlr-remove-bg",
       "name": "Pixlr Remove BG",
       "url": "https://pixlr.com/pl/remove-background/"
+    },
+    {
+      "id": "labsgoogle",
+      "name": "labs.google",
+      "url": "https://labs.google/fx/pl/tools/flow"
     }
   ]
 }

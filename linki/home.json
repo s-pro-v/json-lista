@@ -28,13 +28,6 @@
         "status": "ACTIVE"
     },
     {
-        "id": "RES_004",
-        "name": "TOOLSLINK",
-        "url": "https://toolslink.carrd.co/",
-        "type": "WEB_SERVICE",
-        "status": "ACTIVE"
-    },
-    {
         "id": "RES_005",
         "name": "SITESW5",
         "url": "https://sitesw5.carrd.co/#",

@@ -306,12 +306,5 @@
         "url": "https://s-pro-v.github.io/vault_v6/",
         "type": "EXTERNAL_REPO",
         "status": "ACTIVE"
-    },
-    {
-        "id": "RES_048",
-        "name": "labs.google",
-        "url": "https://labs.google/fx/pl/tools/flow",
-        "type": "WEB_SERVICE",
-        "status": "ACTIVE"
     }
 ]

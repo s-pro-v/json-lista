@@ -313,12 +313,5 @@
         "url": "https://s-pro-v.github.io/mobile_dev/",
         "type": "WEB_SERVICE",
         "status": "ACTIVE"
-    },
-    {
-        "id": "RES_049",
-        "name": "hub",
-        "url": "https://s-pro-v.github.io/mobile_dev/",
-        "type": "WEB_SERVICE",
-        "status": "ACTIVE"
     }
 ]

@@ -21,18 +21,7 @@
       "last_active": 1773209930902
     }
   },
-  "audit_log": [
-    "[11.03.2026, 07:18:50] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> tomaszn",
-    "[11.03.2026, 07:07:41] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> tomaszn",
-    "[11.03.2026, 07:07:36] ADMIN_ACTION: Wylogowano węzeł -> TOMASZN",
-    "[11.03.2026, 07:05:32] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> tomaszn",
-    "[11.03.2026, 06:58:01] ADMIN_ACTION: Wylogowano węzeł -> TOMASZN",
-    "[11.03.2026, 06:50:31] ADMIN_ACTION: Wylogowano węzeł -> TOMASZN",
-    "[10.03.2026, 23:38:22] ADMIN_ACTION: Wylogowano węzeł -> KAMILAB",
-    "[9.03.2026, 11:56:37] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts",
-    "[9.03.2026, 11:48:06] ADMIN_ACTION: Wylogowano węzeł -> TOMASZN",
-    "[9.03.2026, 11:04:42] ADMIN_ACTION: Wylogowano węzeł -> MARTYNAC"
-  ],
+  "audit_log": [],
   "pending_2fa": {},
   "access_permissions": {
     "roberts": "GRANTED",

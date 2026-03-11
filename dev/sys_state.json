@@ -22,6 +22,7 @@
     }
   },
   "audit_log": [
+    "[11.03.2026, 07:25:19] USER_LOGOUT: tomaszn wylogował się (wpis z panelu admina).",
     "[11.03.2026, 07:22:57] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> tomaszn",
     "[11.03.2026, 07:22:51] ADMIN_ACTION: Wylogowano węzeł -> TOMASZN"
   ],

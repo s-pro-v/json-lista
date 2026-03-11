@@ -15,9 +15,14 @@
     "marekmi": {
       "original_name": "marekmi",
       "last_active": 1773167372350
+    },
+    "tomaszn": {
+      "original_name": "tomaszn",
+      "last_active": 1773210802480
     }
   },
   "audit_log": [
+    "[11.03.2026, 07:33:22] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> tomaszn",
     "[11.03.2026, 07:32:26] USER_LOGOUT: TOMASZN wylogowany z panelu admina.",
     "[11.03.2026, 07:28:02] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> tomaszn",
     "[11.03.2026, 07:27:41] USER_LOGOUT: TOMASZN wylogowany z panelu admina."

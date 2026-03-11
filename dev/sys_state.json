@@ -10,21 +10,16 @@
     }
   },
   "audit_log": [
+    "[11.03.2026, 17:39:25] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> JAKUBA",
     "[11.03.2026, 13:36:00] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> marekmi",
     "[11.03.2026, 11:21:35] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts",
     "[11.03.2026, 11:21:23] USER_LOGOUT: roberts wylogował się (mobile).",
     "[11.03.2026, 11:15:48] USER_LOGOUT: tomaszn wylogował się (mobile)."
   ],
-  "pending_2fa": {
-    "jakuba": {
-      "time": 1773247154498,
-      "token": "165932",
-      "device": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_2_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/145.0.7632.108 Mobile/15E148 Safari/604.1",
-      "deviceShort": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_2_0 like Mac OS X) AppleWebKit/605.1.15..."
-    }
-  },
+  "pending_2fa": {},
   "access_permissions": {
     "roberts": "GRANTED",
-    "jakubc": "GRANTED"
+    "jakubc": "GRANTED",
+    "jakuba": "GRANTED"
   }
 }

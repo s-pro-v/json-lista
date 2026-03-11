@@ -3,13 +3,10 @@
     "roberts": {
       "original_name": "roberts",
       "last_active": 1773199601243
-    },
-    "martynac": {
-      "original_name": "martynac",
-      "last_active": 1773073988095
     }
   },
   "audit_log": [
+    "[11.03.2026, 07:45:27] USER_LOGOUT: MARTYNAC wylogowany z panelu admina.",
     "[11.03.2026, 07:45:25] USER_LOGOUT: JUSTYNAS wylogowany z panelu admina.",
     "[11.03.2026, 07:45:24] USER_LOGOUT: MAREKMI wylogowany z panelu admina.",
     "[11.03.2026, 07:45:01] USER_LOGOUT: tomaszn wylogował się (mobile).",

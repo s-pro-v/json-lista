@@ -11,9 +11,14 @@
     "jakuba": {
       "original_name": "jakuba",
       "last_active": 1773247169346
+    },
+    "sebastiank": {
+      "original_name": "sebastiank",
+      "last_active": 1773247296823
     }
   },
   "audit_log": [
+    "[11.03.2026, 17:41:36] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> sebastiank",
     "[11.03.2026, 17:39:29] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> jakuba",
     "[11.03.2026, 17:39:25] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> JAKUBA",
     "[11.03.2026, 13:36:00] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> marekmi",

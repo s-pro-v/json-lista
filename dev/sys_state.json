@@ -3,9 +3,14 @@
     "roberts": {
       "original_name": "roberts",
       "last_active": 1773199601243
+    },
+    "tomaszn": {
+      "original_name": "tomaszn",
+      "last_active": 1773216460793
     }
   },
   "audit_log": [
+    "[11.03.2026, 09:07:40] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> tomaszn",
     "[11.03.2026, 09:06:31] USER_LOGOUT: tomaszn wylogował się (mobile).",
     "[11.03.2026, 08:44:28] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> tomaszn",
     "[11.03.2026, 07:50:15] USER_LOGOUT: tomaszn wylogował się (mobile).",

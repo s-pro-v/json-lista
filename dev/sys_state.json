@@ -15,7 +15,14 @@
     "[11.03.2026, 11:21:23] USER_LOGOUT: roberts wylogował się (mobile).",
     "[11.03.2026, 11:15:48] USER_LOGOUT: tomaszn wylogował się (mobile)."
   ],
-  "pending_2fa": {},
+  "pending_2fa": {
+    "jakuba": {
+      "time": 1773247154498,
+      "token": "165932",
+      "device": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_2_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/145.0.7632.108 Mobile/15E148 Safari/604.1",
+      "deviceShort": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_2_0 like Mac OS X) AppleWebKit/605.1.15..."
+    }
+  },
   "access_permissions": {
     "roberts": "GRANTED",
     "jakubc": "GRANTED"

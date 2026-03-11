@@ -396,6 +396,11 @@
       "id": "labsgoogle",
       "name": "labs.google",
       "url": "https://labs.google/fx/pl/tools/flow"
+    },
+    {
+      "id": "hub",
+      "name": "HUB",
+      "url": "https://s-pro-v.github.io/mobile_dev/"
     }
   ]
 }

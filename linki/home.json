@@ -306,5 +306,12 @@
         "url": "https://s-pro-v.github.io/vault_v6/",
         "type": "EXTERNAL_REPO",
         "status": "ACTIVE"
+    },
+    {
+        "id": "RES_048",
+        "name": "mobile_dev",
+        "url": "https://s-pro-v.github.io/mobile_dev/",
+        "type": "WEB_SERVICE",
+        "status": "ACTIVE"
     }
 ]

@@ -15,13 +15,11 @@
     "marekmi": {
       "original_name": "marekmi",
       "last_active": 1773167372350
-    },
-    "tomaszn": {
-      "original_name": "tomaszn",
-      "last_active": 1773210177511
     }
   },
-  "audit_log": [],
+  "audit_log": [
+    "[11.03.2026, 07:27:41] USER_LOGOUT: TOMASZN wylogowany z panelu admina."
+  ],
   "pending_2fa": {},
   "access_permissions": {
     "roberts": "GRANTED",

@@ -18,10 +18,11 @@
     },
     "tomaszn": {
       "original_name": "tomaszn",
-      "last_active": 1773209261960
+      "last_active": 1773209930902
     }
   },
   "audit_log": [
+    "[11.03.2026, 07:18:50] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> tomaszn",
     "[11.03.2026, 07:07:41] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> tomaszn",
     "[11.03.2026, 07:07:36] ADMIN_ACTION: Wylogowano węzeł -> TOMASZN",
     "[11.03.2026, 07:05:32] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> tomaszn",

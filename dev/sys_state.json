@@ -5,15 +5,7 @@
       "last_active": 1773199601243
     }
   },
-  "audit_log": [
-    "[11.03.2026, 07:45:27] USER_LOGOUT: MARTYNAC wylogowany z panelu admina.",
-    "[11.03.2026, 07:45:25] USER_LOGOUT: JUSTYNAS wylogowany z panelu admina.",
-    "[11.03.2026, 07:45:24] USER_LOGOUT: MAREKMI wylogowany z panelu admina.",
-    "[11.03.2026, 07:45:01] USER_LOGOUT: tomaszn wylogował się (mobile).",
-    "[11.03.2026, 07:44:24] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> tomaszn",
-    "[11.03.2026, 07:43:39] USER_LOGOUT: tomaszn wylogował się (mobile).",
-    "[11.03.2026, 07:43:05] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> tomaszn"
-  ],
+  "audit_log": [],
   "pending_2fa": {},
   "access_permissions": {
     "roberts": "GRANTED",

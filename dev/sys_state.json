@@ -1,9 +1,5 @@
 {
   "active_sessions": {
-    "roberts": {
-      "original_name": "roberts",
-      "last_active": 1773293662199
-    },
     "marekmi": {
       "original_name": "marekmi",
       "last_active": 1773232560680
@@ -22,6 +18,7 @@
     }
   },
   "audit_log": [
+    "[12.03.2026, 06:39:23] USER_LOGOUT: ROBERTS wylogowany z panelu admina.",
     "[12.03.2026, 06:34:22] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts",
     "[12.03.2026, 05:27:44] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> robertc",
     "[11.03.2026, 17:41:36] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> sebastiank",

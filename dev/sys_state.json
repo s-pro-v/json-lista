@@ -15,13 +15,10 @@
     "robertc": {
       "original_name": "robertc",
       "last_active": 1773289664072
-    },
-    "annaf": {
-      "original_name": "annaf",
-      "last_active": 1773294016016
     }
   },
   "audit_log": [
+    "[12.03.2026, 06:40:39] USER_LOGOUT: annaf wylogował się (mobile).",
     "[12.03.2026, 06:40:16] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> annaf",
     "[12.03.2026, 06:40:11] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> ANNAF",
     "[12.03.2026, 06:39:47] USER_LOGOUT: roberts wylogował się (mobile).",

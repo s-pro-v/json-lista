@@ -31,7 +31,14 @@
     "[11.03.2026, 11:21:23] USER_LOGOUT: roberts wylogował się (mobile).",
     "[11.03.2026, 11:15:48] USER_LOGOUT: tomaszn wylogował się (mobile)."
   ],
-  "pending_2fa": {},
+  "pending_2fa": {
+    "annaf": {
+      "time": 1773293999653,
+      "token": "759320",
+      "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+      "deviceShort": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gec..."
+    }
+  },
   "access_permissions": {
     "roberts": "GRANTED",
     "jakubc": "GRANTED"

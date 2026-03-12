@@ -19,9 +19,14 @@
     "martynac": {
       "original_name": "martynac",
       "last_active": 1773335405586
+    },
+    "justynas": {
+      "original_name": "justynas",
+      "last_active": 1773341447964
     }
   },
   "audit_log": [
+    "[12.03.2026, 19:50:47] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> justynas",
     "[12.03.2026, 18:10:05] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> martynac",
     "[12.03.2026, 06:40:39] USER_LOGOUT: annaf wylogował się (mobile).",
     "[12.03.2026, 06:40:16] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> annaf",

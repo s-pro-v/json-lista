@@ -15,9 +15,14 @@
     "robertc": {
       "original_name": "robertc",
       "last_active": 1773289664072
+    },
+    "martynac": {
+      "original_name": "martynac",
+      "last_active": 1773335405586
     }
   },
   "audit_log": [
+    "[12.03.2026, 18:10:05] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> martynac",
     "[12.03.2026, 06:40:39] USER_LOGOUT: annaf wylogował się (mobile).",
     "[12.03.2026, 06:40:16] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> annaf",
     "[12.03.2026, 06:40:11] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> ANNAF",

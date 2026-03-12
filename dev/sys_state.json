@@ -2,7 +2,7 @@
   "active_sessions": {
     "roberts": {
       "original_name": "roberts",
-      "last_active": 1773224495263
+      "last_active": 1773293662199
     },
     "marekmi": {
       "original_name": "marekmi",
@@ -22,6 +22,7 @@
     }
   },
   "audit_log": [
+    "[12.03.2026, 06:34:22] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts",
     "[12.03.2026, 05:27:44] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> robertc",
     "[11.03.2026, 17:41:36] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> sebastiank",
     "[11.03.2026, 17:39:29] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> jakuba",

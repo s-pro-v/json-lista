@@ -52,7 +52,14 @@
     "[11.03.2026, 11:21:23] USER_LOGOUT: roberts wylogował się (mobile).",
     "[11.03.2026, 11:15:48] USER_LOGOUT: tomaszn wylogował się (mobile)."
   ],
-  "pending_2fa": {},
+  "pending_2fa": {
+    "maciejn": {
+      "time": 1773437242592,
+      "token": "296348",
+      "device": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36",
+      "deviceShort": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chr..."
+    }
+  },
   "access_permissions": {
     "roberts": "GRANTED",
     "jakubc": "GRANTED"

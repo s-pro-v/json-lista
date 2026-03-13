@@ -27,9 +27,14 @@
     "arkadiuszł": {
       "original_name": "arkadiuszł",
       "last_active": 1773419851109
+    },
+    "maciejn": {
+      "original_name": "maciejn",
+      "last_active": 1773437255760
     }
   },
   "audit_log": [
+    "[13.03.2026, 22:27:35] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> maciejn",
     "[13.03.2026, 22:27:31] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> MACIEJN",
     "[13.03.2026, 17:37:31] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> arkadiuszł",
     "[13.03.2026, 15:56:04] USER_LOGOUT: roberts wylogował się (mobile).",
@@ -56,7 +61,6 @@
   "pending_2fa": {},
   "access_permissions": {
     "roberts": "GRANTED",
-    "jakubc": "GRANTED",
-    "maciejn": "GRANTED"
+    "jakubc": "GRANTED"
   }
 }

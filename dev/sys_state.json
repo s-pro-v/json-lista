@@ -23,9 +23,14 @@
     "justynas": {
       "original_name": "justynas",
       "last_active": 1773341447964
+    },
+    "arkadiuszł": {
+      "original_name": "arkadiuszł",
+      "last_active": 1773419851109
     }
   },
   "audit_log": [
+    "[13.03.2026, 17:37:31] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> arkadiuszł",
     "[13.03.2026, 15:56:04] USER_LOGOUT: roberts wylogował się (mobile).",
     "[13.03.2026, 15:56:00] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts",
     "[13.03.2026, 07:50:33] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts",

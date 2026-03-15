@@ -31,9 +31,14 @@
     "maciejn": {
       "original_name": "maciejn",
       "last_active": 1773437255760
+    },
+    "roberts": {
+      "original_name": "roberts",
+      "last_active": 1773573689174
     }
   },
   "audit_log": [
+    "[15.03.2026, 12:21:29] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts",
     "[13.03.2026, 22:27:35] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> maciejn",
     "[13.03.2026, 22:27:31] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> MACIEJN",
     "[13.03.2026, 17:37:31] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> arkadiuszł",

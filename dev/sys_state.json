@@ -43,9 +43,14 @@
     "katerynas": {
       "original_name": "katerynas",
       "last_active": 1773938344368
+    },
+    "kamilab": {
+      "original_name": "kamilab",
+      "last_active": 1773955798756
     }
   },
   "audit_log": [
+    "[19.03.2026, 22:29:58] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> kamilab",
     "[19.03.2026, 17:39:04] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> katerynas"
   ],
   "pending_2fa": {},

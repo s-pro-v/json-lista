@@ -39,9 +39,15 @@
     "emiliaf": {
       "original_name": "emiliaf",
       "last_active": 1773701424044
+    },
+    "katerynas": {
+      "original_name": "katerynas",
+      "last_active": 1773938344368
     }
   },
-  "audit_log": [],
+  "audit_log": [
+    "[19.03.2026, 17:39:04] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> katerynas"
+  ],
   "pending_2fa": {},
   "access_permissions": {
     "roberts": "GRANTED",

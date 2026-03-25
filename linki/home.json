@@ -313,5 +313,12 @@
         "url": "https://www.grafikoptymalny.pl/v2/#/account/logon",
         "type": "WEB_SERVICE",
         "status": "ACTIVE"
+    },
+    {
+        "id": "RES_050",
+        "name": "css_add",
+        "url": "https://s-pro-v.github.io/css_add/",
+        "type": "WEB_SERVICE",
+        "status": "ACTIVE"
     }
 ]

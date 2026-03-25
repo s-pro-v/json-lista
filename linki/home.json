@@ -84,13 +84,6 @@
         "status": "ACTIVE"
     },
     {
-        "id": "RES_013",
-        "name": "CSS_INJECTOR",
-        "url": "https://s-pro-v.github.io/css_injector/",
-        "type": "EXTERNAL_REPO",
-        "status": "ACTIVE"
-    },
-    {
         "id": "RES_014",
         "name": "EDITOR-VS",
         "url": "https://editor-vs.carrd.co/",

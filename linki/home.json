@@ -259,13 +259,6 @@
         "status": "ACTIVE"
     },
     {
-        "id": "RES_042",
-        "name": "TOOLSNUE",
-        "url": "https://toolsnue.carrd.co/",
-        "type": "WEB_SERVICE",
-        "status": "ACTIVE"
-    },
-    {
         "id": "RES_043",
         "name": "PANELSDEV",
         "url": "https://panelsdev.carrd.co/",

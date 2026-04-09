@@ -266,13 +266,6 @@
         "status": "ACTIVE"
     },
     {
-        "id": "RES_044",
-        "name": "MOBILE.GITHUB.IO",
-        "url": "https://s-pro-v.github.io/mobile.github.io/",
-        "type": "EXTERNAL_REPO",
-        "status": "ACTIVE"
-    },
-    {
         "id": "RES_045",
         "name": "CODEINSPECT",
         "url": "https://codeinspect.carrd.co/",

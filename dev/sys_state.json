@@ -55,9 +55,14 @@
     "zbigniews": {
       "original_name": "zbigniews",
       "last_active": 1776013401293
+    },
+    "grzegorzk": {
+      "original_name": "grzegorzk",
+      "last_active": 1776022167200
     }
   },
   "audit_log": [
+    "[12.04.2026, 21:29:27] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> grzegorzk",
     "[12.04.2026, 20:05:11] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts",
     "[12.04.2026, 19:03:21] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> zbigniews",
     "[12.04.2026, 18:22:22] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts",

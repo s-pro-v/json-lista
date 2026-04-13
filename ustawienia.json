@@ -8,12 +8,12 @@
     },
     {
       "min": 5,
-      "max": 8,
+      "max": 9,
       "code": "s",
       "name": "SEKCJA S"
     },
     {
-      "min": 9,
+      "min": 10,
       "max": 10,
       "code": "l",
       "name": "SEKCJA L"

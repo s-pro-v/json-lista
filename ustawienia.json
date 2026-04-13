@@ -2,12 +2,12 @@
   "groups": [
     {
       "min": 1,
-      "max": 5,
+      "max": 4,
       "code": "d",
       "name": "SEKCJA D"
     },
     {
-      "min": 6,
+      "min": 5,
       "max": 8,
       "code": "s",
       "name": "SEKCJA S"

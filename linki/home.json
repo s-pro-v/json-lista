@@ -247,7 +247,7 @@
     {
         "id": "RES_040",
         "name": "APPMETEO",
-        "url": "https://appmeteo.carrd.co/",
+        "url": "https://s-pro-v.github.io/pogoda/",
         "type": "WEB_SERVICE",
         "status": "ACTIVE"
     },

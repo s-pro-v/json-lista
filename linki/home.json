@@ -299,5 +299,12 @@
         "url": "https://s-pro-v.github.io/css_add/",
         "type": "WEB_SERVICE",
         "status": "ACTIVE"
+    },
+    {
+        "id": "RES_051",
+        "name": "Arkusz",
+        "url": "https://s-pro-v.github.io/arkusz/",
+        "type": "WEB_SERVICE",
+        "status": "ACTIVE"
     }
 ]

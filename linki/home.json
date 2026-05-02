@@ -196,13 +196,6 @@
         "status": "ACTIVE"
     },
     {
-        "id": "RES_032",
-        "name": "ARKUSZ",
-        "url": "https://arkusz.carrd.co/",
-        "type": "WEB_SERVICE",
-        "status": "ACTIVE"
-    },
-    {
         "id": "RES_034",
         "name": "ADDLIST",
         "url": "https://addlist.carrd.co/",

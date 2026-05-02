@@ -231,13 +231,6 @@
         "status": "ACTIVE"
     },
     {
-        "id": "RES_039",
-        "name": "DEVOSPANEL",
-        "url": "https://devospanel.carrd.co/",
-        "type": "WEB_SERVICE",
-        "status": "ACTIVE"
-    },
-    {
         "id": "RES_040",
         "name": "APPMETEO",
         "url": "https://s-pro-v.github.io/pogoda/",

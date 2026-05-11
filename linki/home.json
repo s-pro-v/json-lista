@@ -154,13 +154,6 @@
         "status": "ACTIVE"
     },
     {
-        "id": "RES_025",
-        "name": "GIT.GITHUB.IO",
-        "url": "https://s-pro-v.github.io/git.github.io/",
-        "type": "EXTERNAL_REPO",
-        "status": "ACTIVE"
-    },
-    {
         "id": "RES_026",
         "name": "UPCSV",
         "url": "https://upcsv.carrd.co/",

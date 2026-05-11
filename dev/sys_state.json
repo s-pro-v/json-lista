@@ -40,10 +40,6 @@
       "original_name": "emiliaf",
       "last_active": 1773701424044
     },
-    "katerynas": {
-      "original_name": "katerynas",
-      "last_active": 1773938344368
-    },
     "kamilab": {
       "original_name": "kamilab",
       "last_active": 1776389982876
@@ -74,6 +70,7 @@
     }
   },
   "audit_log": [
+    "[11.05.2026, 22:01:46] USER_LOGOUT: KATERYNAS wylogowany z panelu admina.",
     "[8.05.2026, 21:54:14] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts",
     "[5.05.2026, 03:37:51] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> dariuszr",
     "[1.05.2026, 18:08:47] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> jakubp",

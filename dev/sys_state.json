@@ -34,7 +34,7 @@
     },
     "roberts": {
       "original_name": "roberts",
-      "last_active": 1778589324908
+      "last_active": 1778716862438
     },
     "emiliaf": {
       "original_name": "emiliaf",
@@ -70,6 +70,7 @@
     }
   },
   "audit_log": [
+    "[14.05.2026, 02:01:02] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts",
     "[12.05.2026, 14:35:24] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts",
     "[12.05.2026, 14:06:04] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts",
     "[11.05.2026, 22:01:46] USER_LOGOUT: KATERYNAS wylogowany z panelu admina.",

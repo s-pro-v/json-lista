@@ -60,16 +60,13 @@
       "original_name": "łukaszs",
       "last_active": 1776126606274
     },
-    "jakubc": {
-      "original_name": "jakubc",
-      "last_active": 1777136747722
-    },
     "jakubp": {
       "original_name": "jakubp",
       "last_active": 1777651727376
     }
   },
   "audit_log": [
+    "[16.05.2026, 21:52:07] USER_LOGOUT: JAKUBC wylogowany z panelu admina.",
     "[14.05.2026, 02:01:02] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts",
     "[12.05.2026, 14:35:24] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts",
     "[12.05.2026, 14:06:04] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts",

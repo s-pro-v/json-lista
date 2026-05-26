@@ -299,5 +299,12 @@
         "url": "https://s-pro-v.github.io/gits_repo/",
         "type": "WEB_SERVICE",
         "status": "ACTIVE"
+    },
+    {
+        "id": "RES_054",
+        "name": "add_grafik",
+        "url": "https://s-pro-v.github.io/add_grafik/",
+        "type": "WEB_SERVICE",
+        "status": "ACTIVE"
     }
 ]

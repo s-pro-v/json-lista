@@ -67,9 +67,14 @@
     "robertk": {
       "original_name": "robertk",
       "last_active": 1780542625551
+    },
+    "bartoszk": {
+      "original_name": "bartoszk",
+      "last_active": 1780543149438
     }
   },
   "audit_log": [
+    "[4.06.2026, 05:19:09] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> bartoszk",
     "[4.06.2026, 05:10:25] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> robertk",
     "[4.06.2026, 05:10:18] USER_LOGOUT: ROBERTK wylogowany z panelu admina.",
     "[4.06.2026, 05:08:37] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> robertk",

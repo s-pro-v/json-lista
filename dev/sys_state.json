@@ -63,9 +63,14 @@
     "jakubp": {
       "original_name": "jakubp",
       "last_active": 1777651727376
+    },
+    "robertk": {
+      "original_name": "robertk",
+      "last_active": 1780542517397
     }
   },
   "audit_log": [
+    "[4.06.2026, 05:08:37] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> robertk",
     "[30.05.2026, 01:49:43] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> robertc",
     "[29.05.2026, 23:42:08] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts",
     "[29.05.2026, 03:17:41] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> robertc",

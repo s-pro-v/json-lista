@@ -2,46 +2,73 @@
   {
     "id": "S_01",
     "label": "Brak plomby",
-    "value": "BRAK PLOMBY"
+    "value": "BRAK PLOMBY",
+    "description": "Brak fizycznej plomby zabezpieczającej."
   },
   {
     "id": "S_02",
     "label": "Plomba ręcznie wpisana",
-    "value": "PLOMBA RĘCZNIE WPISANA"
+    "value": "PLOMBA RĘCZNIE WPISANA",
+    "description": "Numer plomby wpisany odręcznie w dokumentach."
   },
   {
     "id": "S_03",
     "label": "Naczepa uszkodzona",
-    "value": "NACZEPA USZKODZONA"
+    "value": "NACZEPA USZKODZONA",
+    "description": "Stwierdzono fizyczne uszkodzenie naczepy."
   },
   {
     "id": "S_04",
     "label": "Kierowca bez dokumentów",
-    "value": "KIEROWCA BEZ DOKUMENTÓW"
+    "value": "KIEROWCA BEZ DOKUMENTÓW",
+    "description": "Brak wymaganych dokumentów u kierowcy."
   },
   {
     "id": "D_L",
     "label": "LEWA",
-    "value": "LEWA STRONA"
+    "value": "USZKODZONA LEWA STRONA",
+    "description": "Uszkodzenie dotyczy lewej strony naczepy."
   },
   {
     "id": "D_R",
     "label": "PRAWA",
-    "value": "PRAWA STRONA"
+    "value": "USZKODZONA PRAWA STRONA",
+    "description": "Uszkodzenie dotyczy prawej strony naczepy."
   },
   {
     "id": "D_B",
     "label": "OBYDWIE",
-    "value": "OBYDWIE STRONY"
+    "value": "USZKODZONE OBYDWIE STRONY",
+    "description": "Uszkodzenie dotyczy obu stron naczepy."
+  },
+  {
+    "id": "OD_L",
+    "label": "Odbojnik lewy",
+    "value": "USZKODZONY ODBOJNIK LEWY",
+    "description": "Uszkodzenie lub brak lewego odbojnika."
+  },
+  {
+    "id": "OD_R",
+    "label": "Odbojnik prawy",
+    "value": "USZKODZONY ODBOJNIK PRAWY",
+    "description": "Uszkodzenie lub brak prawego odbojnika."
+  },
+  {
+    "id": "OD_B",
+    "label": "Odbojniki obydwa",
+    "value": "USZKODZONE OBYDWA ODBOJNIKI",
+    "description": "Uszkodzenie lub brak obu odbojników."
   },
   {
     "id": "S_05",
     "label": "Niezgodność danych",
-    "value": "NIEZGODNOŚĆ DANYCH"
+    "value": "NIEZGODNOŚĆ DANYCH",
+    "description": "Dane w dokumentach niezgodne ze stanem faktycznym."
   },
   {
     "id": "S_OT",
     "label": "Inne (dopisz)",
-    "value": "INNE:"
+    "value": "INNE:",
+    "description": "Miejsce na wpisanie niestandardowej uwagi."
   }
 ]

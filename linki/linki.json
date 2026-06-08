@@ -401,6 +401,11 @@
       "id": "hub",
       "name": "HUB",
       "url": "https://s-pro-v.github.io/mobile_dev/"
+    },
+    {
+      "id": "devcar",
+      "name": "dev_car",
+      "url": "https://s-pro-v.github.io/dev_car/"
     }
   ]
 }

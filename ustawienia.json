@@ -14,12 +14,12 @@
     },
     {
       "min": 10,
-      "max": 10,
+      "max": 11,
       "code": "l",
       "name": "SEKCJA L"
     },
     {
-      "min": 11,
+      "min": 12,
       "max": 26,
       "code": "k",
       "name": "SEKCJA K"

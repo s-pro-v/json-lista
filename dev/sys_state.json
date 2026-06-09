@@ -26,7 +26,7 @@
     },
     "arkadiuszł": {
       "original_name": "arkadiuszł",
-      "last_active": 1773419851109
+      "last_active": 1781018634395
     },
     "maciejn": {
       "original_name": "maciejn",
@@ -74,6 +74,7 @@
     }
   },
   "audit_log": [
+    "[9.06.2026, 17:23:54] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> arkadiuszł",
     "[4.06.2026, 05:19:09] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> bartoszk",
     "[4.06.2026, 05:10:25] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> robertk",
     "[4.06.2026, 05:10:18] USER_LOGOUT: ROBERTK wylogowany z panelu admina.",

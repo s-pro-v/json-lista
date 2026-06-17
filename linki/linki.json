@@ -406,6 +406,11 @@
       "id": "devcar",
       "name": "dev_car",
       "url": "https://s-pro-v.github.io/dev_car/"
+    },
+    {
+      "id": "livedev",
+      "name": "live_dev",
+      "url": "https://s-pro-v.github.io/live_dev/"
     }
   ]
 }

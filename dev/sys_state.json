@@ -14,7 +14,7 @@
     },
     "robertc": {
       "original_name": "robertc",
-      "last_active": 1782130075881
+      "last_active": 1782138387757
     },
     "martynac": {
       "original_name": "martynac",
@@ -74,6 +74,7 @@
     }
   },
   "audit_log": [
+    "[22.06.2026, 16:26:27] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> robertc",
     "[22.06.2026, 14:07:55] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> robertc",
     "[9.06.2026, 17:23:54] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> arkadiuszł",
     "[4.06.2026, 05:19:09] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> bartoszk",

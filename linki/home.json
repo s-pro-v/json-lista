@@ -336,13 +336,6 @@
         "status": "ACTIVE"
     },
     {
-        "id": "RES_048",
-        "name": "GUARD",
-        "url": "https://s-pro-v.github.io/guard",
-        "type": "EXTERNAL_REPO",
-        "status": "ACTIVE"
-    },
-    {
         "id": "RES_049",
         "name": "EDITOR_CODE",
         "url": "https://s-pro-v.github.io/editor_code",

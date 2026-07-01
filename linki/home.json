@@ -341,12 +341,5 @@
         "url": "https://s-pro-v.github.io/editor_code",
         "type": "EXTERNAL_REPO",
         "status": "ACTIVE"
-    },
-    {
-        "id": "RES_050",
-        "name": "editor_code",
-        "url": "https://s-pro-v.github.io/editor_code/",
-        "type": "WEB_SERVICE",
-        "status": "ACTIVE"
     }
 ]

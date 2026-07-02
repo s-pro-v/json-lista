@@ -341,5 +341,12 @@
         "url": "https://s-pro-v.github.io/editor_code",
         "type": "EXTERNAL_REPO",
         "status": "ACTIVE"
+    },
+    {
+        "id": "RES_050",
+        "name": "Chmura",
+        "url": "https://script.google.com/macros/s/AKfycbyLuqw_W5GJexuPsbnlG9-IeQ4KoJZmBs71_awM1tA/dev",
+        "type": "WEB_SERVICE",
+        "status": "ACTIVE"
     }
 ]

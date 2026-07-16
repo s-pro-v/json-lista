@@ -6,10 +6,12 @@
     },
     "roberts": {
       "original_name": "roberts",
-      "last_active": 1784202201227
+      "last_active": 1784203147924
     }
   },
-  "audit_log": [],
+  "audit_log": [
+    "[16.07.2026, 13:59:07] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts"
+  ],
   "pending_2fa": {},
   "access_permissions": {
     "roberts": "GRANTED",

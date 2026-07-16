@@ -3,9 +3,14 @@
     "arkadiuszł": {
       "original_name": "arkadiuszł",
       "last_active": 1784097219973
+    },
+    "roberts": {
+      "original_name": "roberts",
+      "last_active": 1784202201227
     }
   },
   "audit_log": [
+    "[16.07.2026, 13:43:21] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts",
     "[15.07.2026, 08:33:39] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> arkadiuszł",
     "[14.07.2026, 23:21:01] ADMIN_ACTION: Wylogowano wszystkich (18)",
     "[1.07.2026, 02:28:58] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts",

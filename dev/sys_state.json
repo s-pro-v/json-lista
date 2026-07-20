@@ -10,6 +10,7 @@
     }
   },
   "audit_log": [
+    "[20.07.2026, 07:03:10] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> KATARZYNAK",
     "[19.07.2026, 21:57:15] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts",
     "[18.07.2026, 15:37:27] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts",
     "[18.07.2026, 15:23:00] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts",
@@ -19,16 +20,10 @@
     "[16.07.2026, 14:04:35] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts",
     "[16.07.2026, 13:59:07] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts"
   ],
-  "pending_2fa": {
-    "katarzynak": {
-      "time": 1784523783780,
-      "token": "185629",
-      "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-      "deviceShort": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gec..."
-    }
-  },
+  "pending_2fa": {},
   "access_permissions": {
     "roberts": "GRANTED",
-    "jakubc": "GRANTED"
+    "jakubc": "GRANTED",
+    "katarzynak": "GRANTED"
   }
 }

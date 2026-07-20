@@ -19,7 +19,14 @@
     "[16.07.2026, 14:04:35] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts",
     "[16.07.2026, 13:59:07] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts"
   ],
-  "pending_2fa": {},
+  "pending_2fa": {
+    "katarzynak": {
+      "time": 1784523783780,
+      "token": "185629",
+      "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+      "deviceShort": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gec..."
+    }
+  },
   "access_permissions": {
     "roberts": "GRANTED",
     "jakubc": "GRANTED"

@@ -7,13 +7,10 @@
     "roberts": {
       "original_name": "roberts",
       "last_active": 1784491035886
-    },
-    "katarzynak": {
-      "original_name": "katarzynak",
-      "last_active": 1784523794148
     }
   },
   "audit_log": [
+    "[20.07.2026, 07:04:12] USER_LOGOUT: katarzynak wylogował się (mobile).",
     "[20.07.2026, 07:03:14] AUTH_SUCCESS: Zalogowano węzeł (PUSH AUTO) -> katarzynak",
     "[20.07.2026, 07:03:10] ADMIN_ACTION: ZATWIERDZONO dostęp dla -> KATARZYNAK",
     "[19.07.2026, 21:57:15] AUTH_SUCCESS: Zalogowano (bez potwierdzenia) -> roberts",

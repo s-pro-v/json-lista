@@ -329,13 +329,6 @@
         "status": "ACTIVE"
     },
     {
-        "id": "RES_047",
-        "name": "LIVE_DEV",
-        "url": "https://s-pro-v.github.io/live_dev",
-        "type": "EXTERNAL_REPO",
-        "status": "ACTIVE"
-    },
-    {
         "id": "RES_049",
         "name": "EDITOR_CODE",
         "url": "https://s-pro-v.github.io/editor_code",

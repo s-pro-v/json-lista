@@ -355,5 +355,12 @@
         "url": "https://s-pro-v.github.io/os_pro/",
         "type": "WEB_SERVICE",
         "status": "ACTIVE"
+    },
+    {
+        "id": "RES_053",
+        "name": "scan",
+        "url": "https://s-pro-v.github.io/scan/",
+        "type": "WEB_SERVICE",
+        "status": "ACTIVE"
     }
 ]

@@ -7,9 +7,14 @@
     "roberts": {
       "original_name": "roberts",
       "last_active": 1784724015480
+    },
+    "łukaszs": {
+      "original_name": "łukaszs",
+      "last_active": 1784746892158
     }
   },
   "audit_log": [
+    "[22.07.2026, 21:01:32] AUTH_SUCCESS: Direct -> łukaszs",
     "[22.07.2026, 14:40:15] AUTH_SUCCESS: Direct -> roberts",
     "[22.07.2026, 14:38:16] AUTH_SUCCESS: Direct -> roberts",
     "[22.07.2026, 14:38:06] USER_LOGOUT: łukaszs wylogował się (mobile).",

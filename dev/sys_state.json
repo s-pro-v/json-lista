@@ -15,9 +15,14 @@
     "zbigniews": {
       "original_name": "zbigniews",
       "last_active": 1784773588187
+    },
+    "dariuszr": {
+      "original_name": "dariuszr",
+      "last_active": 1784831428454
     }
   },
   "audit_log": [
+    "[23.07.2026, 20:30:28] AUTH_SUCCESS: Direct -> dariuszr",
     "[23.07.2026, 04:26:28] AUTH_SUCCESS: Direct -> zbigniews",
     "[22.07.2026, 21:01:32] AUTH_SUCCESS: Direct -> łukaszs",
     "[22.07.2026, 14:40:15] AUTH_SUCCESS: Direct -> roberts",

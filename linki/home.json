@@ -342,10 +342,18 @@
         "type": "EXTERNAL_REPO",
         "status": "ACTIVE"
     },
-    {    "id": "RES_049",
+    {
+        "id": "RES_049",
         "name": "var_converter",
         "url": "https://s-pro-v.github.io/var_converter/",
         "type": "EXTERNAL_REPO",
+        "status": "ACTIVE"
+    },
+    {
+        "id": "RES_050",
+        "name": "perchance",
+        "url": "https://perchance.org/4f2sfvtw33",
+        "type": "WEB_SERVICE",
         "status": "ACTIVE"
     }
 ]

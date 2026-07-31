@@ -342,10 +342,10 @@
         "type": "EXTERNAL_REPO",
         "status": "ACTIVE"
     },
-        "id": "RES_049",
+    {    "id": "RES_049",
         "name": "var_converter",
         "url": "https://s-pro-v.github.io/var_converter/",
         "type": "EXTERNAL_REPO",
         "status": "ACTIVE"
-    {
+    }
 ]

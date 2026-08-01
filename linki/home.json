@@ -355,5 +355,12 @@
         "url": "https://perchance.org/4f2sfvtw33",
         "type": "WEB_SERVICE",
         "status": "ACTIVE"
+    },
+    {
+        "id": "RES_051",
+        "name": "chat_bot",
+        "url": "https://s-pro-v.github.io/chat_bot/",
+        "type": "WEB_SERVICE",
+        "status": "ACTIVE"
     }
 ]

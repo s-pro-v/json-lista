@@ -308,13 +308,6 @@
         "status": "ACTIVE"
     },
     {
-        "id": "RES_044",
-        "name": "EDYTOR-STRON",
-        "url": "https://edytor-stron.onrender.com/",
-        "type": "WEB_SERVICE",
-        "status": "ACTIVE"
-    },
-    {
         "id": "RES_045",
         "name": "CODEINSPECT",
         "url": "https://codeinspect.carrd.co/",

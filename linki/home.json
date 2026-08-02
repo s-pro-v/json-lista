@@ -1,8 +1,11 @@
 {
   "home": [
     {
+      "id": "RES_000",
+      "name": "LINKOSI",
       "href": "https://linkosi.carrd.co",
-      "label": "LINKOSI"
+      "type": "EXTERNAL_REPO",
+      "status": "ACTIVE"
     },
     {
       "id": "RES_001",

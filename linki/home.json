@@ -372,9 +372,9 @@
   },
   {
     "id": "RES_053",
-    "name": "SCAN",
-    "url": "https://s-pro-v.github.io/scan/",
-    "type": "EXTERNAL_REPO",
+    "name": "CAV_DEV",
+    "url": "https://s-pro-v.github.io/cav_dev/",
+    "type": "WEB_SERVICE",
     "status": "ACTIVE"
   }
 ]

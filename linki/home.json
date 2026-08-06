@@ -357,13 +357,6 @@
     "status": "ACTIVE"
   },
   {
-    "id": "RES_051",
-    "name": "RENDER",
-    "url": "https://render.com/",
-    "type": "WEB_SERVICE",
-    "status": "ACTIVE"
-  },
-  {
     "id": "RES_052",
     "name": "icon-data",
     "url": "https://s-pro-v.github.io/icon-data/#stats",

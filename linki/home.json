@@ -390,5 +390,12 @@
     "url": "https://s-pro-v.github.io/svg_edit/",
     "type": "WEB_SERVICE",
     "status": "ACTIVE"
+  },
+  {
+    "id": "RES_057",
+    "name": "NOTECH_DEV",
+    "url": "https://s-pro-v.github.io/notech_dev/",
+    "type": "WEB_SERVICE",
+    "status": "ACTIVE"
   }
 ]

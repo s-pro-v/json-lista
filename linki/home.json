@@ -383,5 +383,12 @@
     "url": "https://s-pro-v.github.io/panel_linkow/",
     "type": "WEB_SERVICE",
     "status": "ACTIVE"
+  },
+  {
+    "id": "RES_056",
+    "name": "SVG_EDIT",
+    "url": "https://s-pro-v.github.io/svg_edit/",
+    "type": "WEB_SERVICE",
+    "status": "ACTIVE"
   }
 ]

@@ -210,13 +210,6 @@
     "status": "ACTIVE"
   },
   {
-    "id": "RES_030",
-    "name": "EDYTORTXT",
-    "url": "https://edytortxt.carrd.co/",
-    "type": "WEB_SERVICE",
-    "status": "ACTIVE"
-  },
-  {
     "id": "RES_031",
     "name": "INDUSTRIAL_HUD_FRAMEWORK",
     "url": "https://s-pro-v.github.io/Industrial_HUD_Framework",

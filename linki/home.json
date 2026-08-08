@@ -397,5 +397,12 @@
     "url": "https://s-pro-v.github.io/notech_dev/",
     "type": "WEB_SERVICE",
     "status": "ACTIVE"
+  },
+  {
+    "id": "RES_058",
+    "name": "OS_PRO",
+    "url": "https://s-pro-v.github.io/os_pro/",
+    "type": "WEB_SERVICE",
+    "status": "ACTIVE"
   }
 ]

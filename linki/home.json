@@ -404,5 +404,19 @@
     "url": "https://modifier.carrd.co/",
     "type": "WEB_SERVICE",
     "status": "ACTIVE"
+  },
+  {
+    "id": "RES_060",
+    "name": "DEVPAGE5",
+    "url": "https://devpage5.carrd.co/",
+    "type": "WEB_SERVICE",
+    "status": "ACTIVE"
+  },
+  {
+    "id": "RES_061",
+    "name": "CZATDEV",
+    "url": "https://czatdev.carrd.co/#c07f0846",
+    "type": "WEB_SERVICE",
+    "status": "ACTIVE"
   }
 ]

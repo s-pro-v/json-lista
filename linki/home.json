@@ -397,5 +397,26 @@
     "url": "https://s-pro-v.github.io/os_pro/",
     "type": "WEB_SERVICE",
     "status": "ACTIVE"
+  },
+  {
+    "id": "RES_059",
+    "name": "PLAYLIVEOS",
+    "url": "https://playliveos.carrd.co/",
+    "type": "WEB_SERVICE",
+    "status": "ACTIVE"
+  },
+  {
+    "id": "RES_060",
+    "name": "PLAYYT",
+    "url": "https://playyt.carrd.co/",
+    "type": "WEB_SERVICE",
+    "status": "ACTIVE"
+  },
+  {
+    "id": "RES_061",
+    "name": "MODIFIER",
+    "url": "https://modifier.carrd.co/",
+    "type": "WEB_SERVICE",
+    "status": "ACTIVE"
   }
 ]

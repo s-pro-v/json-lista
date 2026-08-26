@@ -2,6 +2,12 @@
   "groups": [
     {
       "min": 1,
+      "max": 0,
+      "code": "",
+      "name": ""
+    },
+    {
+      "min": 1,
       "max": 999999,
       "code": "",
       "name": ""

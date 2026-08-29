@@ -18,7 +18,7 @@
     },
     "dariuszr": {
       "original_name": "dariuszr",
-      "last_active": 1787391439746
+      "last_active": 1787997384352
     },
     "robertc": {
       "original_name": "robertc",
@@ -38,6 +38,7 @@
     }
   },
   "audit_log": [
+    "[29.08.2026, 11:56:24] AUTH_SUCCESS: Direct -> dariuszr",
     "[26.08.2026, 21:59:11] AUTH_SUCCESS: Direct -> roberts",
     "[25.08.2026, 20:36:13] AUTH_SUCCESS: Direct -> marcelk",
     "[25.08.2026, 20:35:16] AUTH_SUCCESS: Direct -> marcelk",

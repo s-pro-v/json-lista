@@ -418,5 +418,12 @@
     "url": "https://s-pro-v.github.io/shift_up/",
     "type": "WEB_SERVICE",
     "status": "ACTIVE"
+  },
+  {
+    "id": "RES_062",
+    "name": "IMG_UP",
+    "url": "https://s-pro-v.github.io/img_up/",
+    "type": "WEB_SERVICE",
+    "status": "ACTIVE"
   }
 ]

@@ -425,5 +425,12 @@
     "url": "https://s-pro-v.github.io/img_up/",
     "type": "WEB_SERVICE",
     "status": "ACTIVE"
+  },
+  {
+    "id": "RES_063",
+    "name": "WEB_DEV",
+    "url": "https://s-pro-v.github.io/web_dev/",
+    "type": "WEB_SERVICE",
+    "status": "ACTIVE"
   }
 ]

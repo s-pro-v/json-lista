@@ -35,9 +35,14 @@
     "marcelk": {
       "original_name": "marcelk",
       "last_active": 1788703300498
+    },
+    "jadwigab": {
+      "original_name": "jadwigab",
+      "last_active": 1789345977234
     }
   },
   "audit_log": [
+    "[14.09.2026, 02:32:57] AUTH_SUCCESS: Direct -> jadwigab",
     "[9.09.2026, 11:51:27] AUTH_SUCCESS: Direct -> robertc",
     "[6.09.2026, 16:01:40] AUTH_SUCCESS: Direct -> marcelk",
     "[6.09.2026, 16:00:55] AUTH_SUCCESS: Direct -> marcelk",

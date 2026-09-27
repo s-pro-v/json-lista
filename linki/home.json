@@ -280,13 +280,6 @@
     "status": "ACTIVE"
   },
   {
-    "id": "RES_044",
-    "name": "CODEINSPECT",
-    "url": "https://codeinspect.carrd.co/",
-    "type": "WEB_SERVICE",
-    "status": "ACTIVE"
-  },
-  {
     "id": "RES_045",
     "name": "DEVPAGE5",
     "url": "https://devpage5.carrd.co/",

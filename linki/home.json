@@ -404,5 +404,19 @@
     "url": "https://s-pro-v.github.io/note_fast/",
     "type": "WEB_SERVICE",
     "status": "ACTIVE"
+  },
+  {
+    "id": "RES_065",
+    "name": "EXD_LIST",
+    "url": "https://s-pro-v.github.io/exd_list/",
+    "type": "WEB_SERVICE",
+    "status": "ACTIVE"
+  },
+  {
+    "id": "RES_066",
+    "name": "TABLICA_MOBILE",
+    "url": "https://s-pro-v.github.io/tablica_mobile/",
+    "type": "WEB_SERVICE",
+    "status": "ACTIVE"
   }
 ]

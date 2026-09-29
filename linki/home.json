@@ -147,13 +147,6 @@
     "status": "ACTIVE"
   },
   {
-    "id": "RES_022",
-    "name": "MOBILE_DEV",
-    "url": "https://s-pro-v.github.io/mobile_dev",
-    "type": "EXTERNAL_REPO",
-    "status": "ACTIVE"
-  },
-  {
     "id": "RES_023",
     "name": "REACTLIVE",
     "url": "https://reactlive.carrd.co/",

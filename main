@@ -1,0 +1,368 @@
+[
+  {
+    "user": "admin",
+    "pass": "$2a$10$9Wb9aTzYrQjZP3uJrGXr3OpUuL6l7Yl3WWtCYOEMWk8xxQLriMina",
+    "role": "admin",
+    "workerId": null
+  },
+  {
+    "user": "Anita_K",
+    "pass": "$2a$10$9Jejy8CsukWmUuXLootEpukoUo62K1o1Tl6RwCbDneNlMExqaKN/.",
+    "role": "worker",
+    "workerId": 0
+  },
+  {
+    "user": "Bogusława_K",
+    "pass": "$2a$10$vjpyfjrD294Z0Trs4TNrQuf/CxTDnLfs0RMwAzwQumnfeQftrDRtO",
+    "role": "worker",
+    "workerId": 1
+  },
+  {
+    "user": "Ewelina_W",
+    "pass": "$2a$10$71uI8uxGw6AHfjNw6Q7rPenY/7g/1sC7dVLKEduylnfbin6VwmmPa",
+    "role": "worker",
+    "workerId": 2
+  },
+  {
+    "user": "Jadwiga_B",
+    "pass": "$2a$10$MytuUMSWezNhZcXY8OpaxuY.JErJnZTNQNSKNsMX2PDFhLiaI64aC",
+    "role": "worker",
+    "workerId": 3
+  },
+  {
+    "user": "Katarzyna_K",
+    "pass": "$2a$10$eWb6KX2uY9Am0r.0NtI8ee6z.Nwf4EpXFTQ.3JlDe2KxlggKLvnW6",
+    "role": "worker",
+    "workerId": 4
+  },
+  {
+    "user": "Piotr_P",
+    "pass": "$2a$10$Py/n80Q6VkKsmRSFK3q0Kepd0YpNJ.Lfu9NC05RtNR3Oyg96rczD6",
+    "role": "worker",
+    "workerId": 5
+  },
+  {
+    "user": "Bartosz_K",
+    "pass": "$2a$10$iYOQJYvFDbjOtdA5t4IEFeuAhHduvjGSAdSOu3UBE/Bc57P2DRUNy",
+    "role": "worker",
+    "workerId": 6
+  },
+  {
+    "user": "Klaudia_J",
+    "pass": "$2a$10$LJs/HEcvLFJLrgvr8DlA6.Gq7KpPJzLlpiflzy.d2ipDAFx1ZvwGW",
+    "role": "worker",
+    "workerId": 7
+  },
+  {
+    "user": "Monika_Ś",
+    "pass": "$2a$10$FQ5jQ5GWRc7ll2NJ6YzRnufxXrQs1DdC74mF3/IjK.i9OWlngedyS",
+    "role": "worker",
+    "workerId": 8
+  },
+  {
+    "user": "Piotr_M",
+    "pass": "$2a$10$LM1U84VLbA7HdT/IcouMUuEq/x0i1ZS9Gj74X6MpoAeVhY3HJKzlq",
+    "role": "worker",
+    "workerId": 9
+  },
+  {
+    "user": "Teresa_MI",
+    "pass": "$2a$10$7KTaT.w3AVXzP1Leh7dU7OJyCy75uodjHs981MzT4Ti/rr70J6NBK",
+    "role": "worker",
+    "workerId": 10
+  },
+  {
+    "user": "Anna_F",
+    "pass": "$2a$10$1N1hoEwnwXykduIvAmdUbeBydZtouXbgtp9WVew712soU3RX/FCUO",
+    "role": "worker",
+    "workerId": 11
+  },
+  {
+    "user": "Daniela_S",
+    "pass": "$2a$10$t9XzF9v3Gssi4PzY0zYUe.0R6Xoe126Apg/LHJvuYezBgZItS3eK2",
+    "role": "worker",
+    "workerId": 12
+  },
+  {
+    "user": "Danuta_D",
+    "pass": "$2a$10$BJpyeBsutj5ExSR3/3u3LeIUiiNREXQT0lzM8bDDsY/3CJY4APM9y",
+    "role": "worker",
+    "workerId": 13
+  },
+  {
+    "user": "Emilia_F",
+    "pass": "$2a$10$sVt9wCbLKKQl4xdukEUpCOJgRzmZxB/rFWInHbPMQr.sp8EyQ.yci",
+    "role": "worker",
+    "workerId": 14
+  },
+  {
+    "user": "Honorata_G",
+    "pass": "$2a$10$QpYf5q7iMw8fLz3GzDZ8EuR4zWwzjek.ubfjE61tapsi0l3Pr9el.",
+    "role": "worker",
+    "workerId": 15
+  },
+  {
+    "user": "Iwona_W",
+    "pass": "$2a$10$Mgl7kjWakdSzdQpNBkyF4uWXYXgQ9pZR2n8t2V1e8SOyFawnWM.uC",
+    "role": "worker",
+    "workerId": 16
+  },
+  {
+    "user": "Justyna_R",
+    "pass": "$2a$10$m4UdRnJZfJr1JGszbNOPtOS1OhwPj3/3Sz/6zspGWgKQwpAqlTl.W",
+    "role": "worker",
+    "workerId": 17
+  },
+  {
+    "user": "Justyna_S",
+    "pass": "$2a$10$hKqXQLIo4S2gUkJ781ZYFO.6qurPodTnzZeIT9gii7AIH0MIKNbvC",
+    "role": "worker",
+    "workerId": 18
+  },
+  {
+    "user": "Magdalena_K",
+    "pass": "$2a$10$U3Ef7srbH9QmyhxH9AZ4vuZ5Z3npLS0sNRQd7q9SQimft2bDm/J1.",
+    "role": "worker",
+    "workerId": 19
+  },
+  {
+    "user": "Martyna_C",
+    "pass": "$2a$10$o.w7XjbsA1XKWbRvKopxMOsakim3VUACZwJz4nFDD/nHV/4Fk/Cky",
+    "role": "worker",
+    "workerId": 20
+  },
+  {
+    "user": "Paulina_Ż",
+    "pass": "$2a$10$5HAiwP2EYIadJzo6/Bj0l.PCTJehZ64Wu5GMqsVA9tF1faZjmBaWO",
+    "role": "worker",
+    "workerId": 21
+  },
+  {
+    "user": "Teresa_MO",
+    "pass": "$2a$10$QKXcQh7emPNle.4COB9a8.NZD9GfDrBnKMkUgBL12PDm1aZnRhzce",
+    "role": "worker",
+    "workerId": 22
+  },
+  {
+    "user": "Dariusz_R",
+    "pass": "$2a$10$CP1mDuutqGLLcUmBxdTDZ.yRDVRB.yT6fZM5CBHZE4gB9Vgj8bVpO",
+    "role": "worker",
+    "workerId": 23
+  },
+  {
+    "user": "Dawid_B",
+    "pass": "$2a$10$gzoKnoXpRqWR0mgpz/TugudDPR8x2tl96QPR63GvcX7spSzgXfXmu",
+    "role": "worker",
+    "workerId": 24
+  },
+  {
+    "user": "Dominik_F",
+    "pass": "$2a$10$oMf1t6ZpZXbBpDt.LrbTLudSRfpeDd4yNT.xvZ9WgIss5HLyl0Lh.",
+    "role": "worker",
+    "workerId": 25
+  },
+  {
+    "user": "Jakub_K",
+    "pass": "$2a$10$T6J/N6O9HJ0aABpFdsqC4.6V.4N/my38JB4tU/1Sbhn4f0ZB6bSRq",
+    "role": "worker",
+    "workerId": 26
+  },
+  {
+    "user": "Maciej_G",
+    "pass": "$2a$10$MXGHAKqc74ADJDJmBSC0EuP1DsZLwio5dMh.nL4AEKQdTLcmyf4ri",
+    "role": "worker",
+    "workerId": 27
+  },
+  {
+    "user": "Marek_M",
+    "pass": "$2a$10$rbRNmhgiAcemRS6hQ0cZuelw8F/Aa/bUQ16TGb6rk5g8VV.VudfbS",
+    "role": "worker",
+    "workerId": 28
+  },
+  {
+    "user": "Michał_K",
+    "pass": "$2a$10$B85XeiCxvHXbY92b3ripYupf17/ec03iO3s6t4HObfg/yDUVhHO32",
+    "role": "worker",
+    "workerId": 29
+  },
+  {
+    "user": "Mirosław_M",
+    "pass": "$2a$10$931F6fnjbYnM8dVwW.wweO3YGNw738wOgoo2uTprDGGqugKGG7FgG",
+    "role": "worker",
+    "workerId": 30
+  },
+  {
+    "user": "Piotr_L",
+    "pass": "$2a$10$oP7mgXtMkonzzyNQUlBAJO9rkJPHnrO82./D4JjWbIOwMQEYxRfqi",
+    "role": "worker",
+    "workerId": 31
+  },
+  {
+    "user": "Rafał_O",
+    "pass": "$2a$10$BR1cSUs4n0JVJkejzpatuegxH9gV493dHGZjLd0igV222O3k4N2xa",
+    "role": "worker",
+    "workerId": 32
+  },
+  {
+    "user": "Robert_K",
+    "pass": "$2a$10$JbA9YpQOxoe1Gf1N6yNQFOkUninjozJgOzDKq3cmoyijbvcgvjiXi",
+    "role": "worker",
+    "workerId": 33
+  },
+  {
+    "user": "Ryszard_B",
+    "pass": "$2a$10$IiEPB3WRzqZot5.j5zv6uuqvYUHXl8x/TKT9oflkYP06JSl0xEAoC",
+    "role": "worker",
+    "workerId": 34
+  },
+  {
+    "user": "Tomasz_N",
+    "pass": "$2a$10$hG7b/GNXIx84DQNGi0mq0ul1iTi0oXfs6Mxj7kpW5O71JiLKXi.8q",
+    "role": "worker",
+    "workerId": 35
+  },
+  {
+    "user": "Adam_K",
+    "pass": "$2a$10$7cdetpa8ia.ykXCGXqYc8uvGWoevw.DdE9OOJPQrINVKBgVtoaZ/m",
+    "role": "worker",
+    "workerId": 36
+  },
+  {
+    "user": "Agnieszka_W",
+    "pass": "$2a$10$JqQUEOqDf.rhn4/8rR8XYOjDv0cDu.ukXjrnP/ZANdUMvaxbXYB5m",
+    "role": "worker",
+    "workerId": 37
+  },
+  {
+    "user": "Arkadiusz_Ł",
+    "pass": "$2a$10$icsCU10njiVVpN9dgU.zpupX3sHfJyLBlR3us/5vxLKPi2oWUxe9q",
+    "role": "worker",
+    "workerId": 38
+  },
+  {
+    "user": "Arkadiusz_S",
+    "pass": "$2a$10$qeWAH5UtNFhQ4e5akVvFlugJ3mgNVlJVfIvthNI9VBFWidMwhYSRS",
+    "role": "worker",
+    "workerId": 39
+  },
+  {
+    "user": "Damian_W",
+    "pass": "$2a$10$RTzWNj8C2uJuPUYQvaPZT.qxkLzBqqtMavtA1vz2JUfxug/SNguje",
+    "role": "worker",
+    "workerId": 40
+  },
+  {
+    "user": "Dawid_R",
+    "pass": "$2a$10$V5oJ1riZSBUozdZcWifTGOQBv8bIFEbz4.rs.IWF5th3fkxZzm1f.",
+    "role": "worker",
+    "workerId": 41
+  },
+  {
+    "user": "Grzegorz_K",
+    "pass": "$2a$10$A1edntwDHk85pG8iQcxEdOXsVPhfGi/hTpd3DGH6dWUzJ.LR8dYqi",
+    "role": "worker",
+    "workerId": 42
+  },
+  {
+    "user": "Jerzy_J",
+    "pass": "$2a$10$kRw9L1E25KxWvuYbnwrPIek1S2McWRg8KW79tV2g21BRjKImTIsay",
+    "role": "worker",
+    "workerId": 43
+  },
+  {
+    "user": "Kamil_S",
+    "pass": "$2a$10$s08So0auIME8akVKMuEivuPIUuchvCWmooQojHa634Y07sXTfonF6",
+    "role": "worker",
+    "workerId": 44
+  },
+  {
+    "user": "Kamila_B",
+    "pass": "$2a$10$fF8rsqnOBLTqMbrXhInbsut1wgMNDJSmjvNaiqKrcYMxcBEQRuv1m",
+    "role": "worker",
+    "workerId": 45
+  },
+  {
+    "user": "Łukasz_S",
+    "pass": "$2a$10$iIqid/NTjgLazGfN7WKpb.rD3Oi3j136t0yBodBi8sBI7OsUsj.7O",
+    "role": "worker",
+    "workerId": 46
+  },
+  {
+    "user": "Marcel_K",
+    "pass": "$2a$10$/d6dY1L7BABRh0/ZG/2YKee4qjkQ7/ucxAQK/6RqZjxJVHQeczm/m",
+    "role": "worker",
+    "workerId": 47
+  },
+  {
+    "user": "Marcin_K",
+    "pass": "$2a$10$95Ba5esKgxquE9gz9uHvbOZl/DVJ9BonHIXbr4fg0LbHsJ6sNxMx6",
+    "role": "worker",
+    "workerId": 48
+  },
+  {
+    "user": "Piotr_K",
+    "pass": "$2a$10$ZGrupfdWD6fLahvLX9bHnuMgYmiFkBLpvM8O4lp98pfgWCcVZ7u5.",
+    "role": "worker",
+    "workerId": 49
+  },
+  {
+    "user": "Robert_C",
+    "pass": "$2a$10$BlKu1SpeYcFLS/ylUHQrzuNUvcRMydGKG66nTAs9kn4.puUKqkqH6",
+    "role": "worker",
+    "workerId": 50
+  },
+  {
+    "user": "Robert_S",
+    "pass": "$2a$10$J5.QHYmNahfbHUZ9.bBPA.7ySmCqGgQ/V9IjrmcNuB2Ynzf5N4Xk2",
+    "role": "worker",
+    "workerId": 51
+  },
+  {
+    "user": "Sebastian_K",
+    "pass": "$2a$10$yXJT/SR2xdWu8DWNuz8sBOPPnM3U2REywtiX3tRJeBxrZ3CrqPaBe",
+    "role": "worker",
+    "workerId": 52
+  },
+  {
+    "user": "Svitlana_J",
+    "pass": "$2a$10$JC8bxdEb7WzBxejbJfaXl.njM31IR35Q8yj0jEIkUXgeTGUyZ7zsy",
+    "role": "worker",
+    "workerId": 53
+  },
+  {
+    "user": "Jakub_A",
+    "pass": "$2a$10$DTjnaTEgimsQy1jqbApAxOeEZfXJ9F2QI/aa6whnjAK9yXMYNnPE.",
+    "role": "worker",
+    "workerId": 54
+  },
+  {
+    "user": "Maciej_N",
+    "pass": "$2a$10$w.51RPtrfhMzGNINMNvAZePu/0bnhMr0Ug9/e8J2ZDT53PLU66PD.",
+    "role": "worker",
+    "workerId": 55
+  },
+  {
+    "user": "Magdalena_D",
+    "pass": "$2a$10$H8JEPNDsCm28pDxp59mwZ.3LZlrBQBqIdGMK43QWbrmdgzaaFB3F6",
+    "role": "worker",
+    "workerId": 18
+  },
+  {
+    "user": "Maria_W",
+    "pass": "$2a$10$QcSfwIvcSC9qY.dGXX9KZ.LhRacSZoEitQCy/6DHGRBz7NEPJT0Jq",
+    "role": "worker",
+    "workerId": 20
+  },
+  {
+    "user": "Sebastian_S",
+    "pass": "$2a$10$7U2gCAlladum/PrZiTlM0u5bNFVF2P3wAhkKcFHBgZEf7C0FMLZ2u",
+    "role": "worker",
+    "workerId": 36
+  },
+  {
+    "user": "Zbigniew_S",
+    "pass": "$2a$10$yQFszjO1Ykq3MFGoJxpFsOOx0qEih7WZCdkgIK3R6qTA6ekqAAws2",
+    "role": "worker",
+    "workerId": 56
+  }
+]

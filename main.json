@@ -364,5 +364,26 @@
     "pass": "$2a$10$yQFszjO1Ykq3MFGoJxpFsOOx0qEih7WZCdkgIK3R6qTA6ekqAAws2",
     "role": "worker",
     "workerId": 56
+  },
+  {
+    "user": "daria_z",
+    "pass": "$2a$10$lkwirx4uT1/UEn7NXeYgHusr8mU8WMaMwkC8mkQ8iYOq89yW5Nmti",
+    "role": "worker",
+    "workerId": 54,
+    "createdAt": 1790909896767
+  },
+  {
+    "user": "oliwier_k",
+    "pass": "$2a$10$ki7QdJfaw070W5lygkY0v.G/jw6s6joZuzR4.S53wo99BuQP/zWkK",
+    "role": "worker",
+    "workerId": 57,
+    "createdAt": 1790909897275
+  },
+  {
+    "user": "szymon_m",
+    "pass": "$2a$10$xNarfFxbI2HcLpJ3rj4fmOPLQWfoVYzglkfQ.kev1UTsw9EgrrabS",
+    "role": "worker",
+    "workerId": 58,
+    "createdAt": 1790909897864
   }
 ]

@@ -360,12 +360,6 @@
     "workerId": 36
   },
   {
-    "user": "Zbigniew_S",
-    "pass": "$2a$10$yQFszjO1Ykq3MFGoJxpFsOOx0qEih7WZCdkgIK3R6qTA6ekqAAws2",
-    "role": "worker",
-    "workerId": 56
-  },
-  {
     "user": "daria_z",
     "pass": "$2a$10$lkwirx4uT1/UEn7NXeYgHusr8mU8WMaMwkC8mkQ8iYOq89yW5Nmti",
     "role": "worker",

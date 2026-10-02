@@ -386,5 +386,19 @@
     "role": "worker",
     "workerId": 56,
     "createdAt": 1790909937264
+  },
+  {
+    "user": "bartosz_d",
+    "pass": "$2a$10$0BCa4wURn7aji6CPldLeQu9zZ6xdjkWvmYXyHynTote2mXtYs4lUW",
+    "role": "worker",
+    "workerId": 54,
+    "createdAt": 1790952891434
+  },
+  {
+    "user": "karol_d",
+    "pass": "$2a$10$6hu8vS1/v5uh6NzcwEZqNuLMHtv6TnkbgZWj95RI0gf7exPQeFfLm",
+    "role": "worker",
+    "workerId": 57,
+    "createdAt": 1790952892030
   }
 ]

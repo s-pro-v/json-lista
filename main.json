@@ -379,5 +379,12 @@
     "role": "worker",
     "workerId": 58,
     "createdAt": 1790909897864
+  },
+  {
+    "user": "zbigniew_s",
+    "pass": "$2a$10$xFMMyDCIA8Gap0UekA/Kful0P4yvRiBlfuRhkKkpHg4PykEZebAiS",
+    "role": "worker",
+    "workerId": 56,
+    "createdAt": 1790909937264
   }
 ]

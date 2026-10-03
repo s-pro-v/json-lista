@@ -1,0 +1,135 @@
+{
+"system": "12h",
+"rok": 2025,
+"podsumowanie_roczne": {
+"godziny": 2008,
+"dni_pracy_8h": 251,
+"dni_wolne_8h": 114,
+"pelne_zmiany_12h": 167,
+"godziny_resztowe": 4,
+"dni_pracy_12h": 173,
+"dni_wolne_12h": 192
+},
+"miesiace": {
+"0": {
+"nazwa": "Styczeń",
+"godziny": 160,
+"dni_pracy_8h": 20,
+"dni_wolne_8h": 11,
+"pelne_12h": 13,
+"reszta_h": 4,
+"dni_pracy_12h": 14,
+"dni_wolne_12h": 17
+},
+"1": {
+"nazwa": "Luty",
+"godziny": 160,
+"dni_pracy_8h": 20,
+"dni_wolne_8h": 8,
+"pelne_12h": 13,
+"reszta_h": 4,
+"dni_pracy_12h": 14,
+"dni_wolne_12h": 14
+},
+"2": {
+"nazwa": "Marzec",
+"godziny": 176,
+"dni_pracy_8h": 22,
+"dni_wolne_8h": 9,
+"pelne_12h": 14,
+"reszta_h": 8,
+"dni_pracy_12h": 15,
+"dni_wolne_12h": 16
+},
+"3": {
+"nazwa": "Kwiecień",
+"godziny": 168,
+"dni_pracy_8h": 21,
+"dni_wolne_8h": 9,
+"pelne_12h": 14,
+"reszta_h": 0,
+"dni_pracy_12h": 14,
+"dni_wolne_12h": 16
+},
+"4": {
+"nazwa": "Maj",
+"godziny": 160,
+"dni_pracy_8h": 20,
+"dni_wolne_8h": 11,
+"pelne_12h": 13,
+"reszta_h": 4,
+"dni_pracy_12h": 14,
+"dni_wolne_12h": 17
+},
+"5": {
+"nazwa": "Czerwiec",
+"godziny": 168,
+"dni_pracy_8h": 21,
+"dni_wolne_8h": 9,
+"pelne_12h": 14,
+"reszta_h": 0,
+"dni_pracy_12h": 14,
+"dni_wolne_12h": 16
+},
+"6": {
+"nazwa": "Lipiec",
+"godziny": 184,
+"dni_pracy_8h": 23,
+"dni_wolne_8h": 8,
+"pelne_12h": 15,
+"reszta_h": 4,
+"dni_pracy_12h": 16,
+"dni_wolne_12h": 15
+},
+"7": {
+"nazwa": "Sierpień",
+"godziny": 160,
+"dni_pracy_8h": 20,
+"dni_wolne_8h": 11,
+"pelne_12h": 13,
+"reszta_h": 4,
+"dni_pracy_12h": 14,
+"dni_wolne_12h": 17
+},
+"8": {
+"nazwa": "Wrzesień",
+"godziny": 176,
+"dni_pracy_8h": 22,
+"dni_wolne_8h": 8,
+"pelne_12h": 14,
+"reszta_h": 8,
+"dni_pracy_12h": 15,
+"dni_wolne_12h": 15
+},
+"9": {
+"nazwa": "Październik",
+"godziny": 176,
+"dni_pracy_8h": 22,
+"dni_wolne_8h": 9,
+"pelne_12h": 14,
+"reszta_h": 8,
+"dni_pracy_12h": 15,
+"dni_wolne_12h": 16
+},
+"10": {
+"nazwa": "Listopad",
+"godziny": 160,
+"dni_pracy_8h": 20,
+"dni_wolne_8h": 10,
+"pelne_12h": 13,
+"reszta_h": 4,
+"dni_pracy_12h": 14,
+"dni_wolne_12h": 16
+},
+"11": {
+"nazwa": "Grudzień",
+"godziny": 160,
+"dni_pracy_8h": 20,
+"dni_wolne_8h": 11,
+"pelne_12h": 13,
+"reszta_h": 4,
+"dni_pracy_12h": 14,
+"dni_wolne_12h": 17
+}
+}
+}

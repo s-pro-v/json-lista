@@ -1,6 +1,7 @@
 {
     "system": "12h",
-    "rok": 2025,
+    "rok": 2026,
+    "podstawa_prawna": "Art. 130 i 135 Kodeksu Pracy (Dz.U. z 2024 r. poz. 1965 z późn. zm.)",
     "podsumowanie_roczne": {
         "godziny": 2008,
         "dni_pracy_8h": 251,
@@ -8,7 +9,53 @@
         "pelne_zmiany_12h": 167,
         "godziny_resztowe": 4,
         "dni_pracy_12h": 173,
-        "dni_wolne_12h": 192
+        "dni_wolne_12h": 192,
+        "swieta_w_soboty": [
+            {
+                "data": "2026-08-15",
+                "nazwa": "Wniebowzięcie NMP / Święto Wojska Polskiego"
+            },
+            {
+                "data": "2026-12-26",
+                "nazwa": "Drugi dzień Bożego Narodzenia"
+            }
+        ],
+        "nowe_dni_ustawowo_wolne": [
+            {
+                "data": "2026-12-24",
+                "nazwa": "Wigilia Bożego Narodzenia"
+            }
+        ]
+    },
+    "kwartaly": {
+        "Q1": {
+            "godziny": 496,
+            "dni_pracy_8h": 62,
+            "dni_wolne_8h": 28,
+            "pelne_12h": 41,
+            "reszta_h": 4
+        },
+        "Q2": {
+            "godziny": 496,
+            "dni_pracy_8h": 62,
+            "dni_wolne_8h": 29,
+            "pelne_12h": 41,
+            "reszta_h": 4
+        },
+        "Q3": {
+            "godziny": 520,
+            "dni_pracy_8h": 65,
+            "dni_wolne_8h": 27,
+            "pelne_12h": 43,
+            "reszta_h": 4
+        },
+        "Q4": {
+            "godziny": 496,
+            "dni_pracy_8h": 62,
+            "dni_wolne_8h": 30,
+            "pelne_12h": 41,
+            "reszta_h": 4
+        }
     },
     "miesiace": {
         "0": {
@@ -19,7 +66,8 @@
             "pelne_12h": 13,
             "reszta_h": 4,
             "dni_pracy_12h": 14,
-            "dni_wolne_12h": 17
+            "dni_wolne_12h": 17,
+            "uwagi": "Nowy Rok (czw), Trzech Króli (wt)"
         },
         "1": {
             "nazwa": "Luty",
@@ -29,7 +77,8 @@
             "pelne_12h": 13,
             "reszta_h": 4,
             "dni_pracy_12h": 14,
-            "dni_wolne_12h": 14
+            "dni_wolne_12h": 14,
+            "uwagi": "28 dni w miesiącu"
         },
         "2": {
             "nazwa": "Marzec",
@@ -39,7 +88,8 @@
             "pelne_12h": 14,
             "reszta_h": 8,
             "dni_pracy_12h": 15,
-            "dni_wolne_12h": 16
+            "dni_wolne_12h": 16,
+            "uwagi": "Brak świąt obniżających wymiar"
         },
         "3": {
             "nazwa": "Kwiecień",
@@ -49,7 +99,8 @@
             "pelne_12h": 14,
             "reszta_h": 0,
             "dni_pracy_12h": 14,
-            "dni_wolne_12h": 16
+            "dni_wolne_12h": 16,
+            "uwagi": "Poniedziałek Wielkanocny (6 kwietnia)"
         },
         "4": {
             "nazwa": "Maj",
@@ -59,7 +110,8 @@
             "pelne_12h": 13,
             "reszta_h": 4,
             "dni_pracy_12h": 14,
-            "dni_wolne_12h": 17
+            "dni_wolne_12h": 17,
+            "uwagi": "Święto Pracy (1 maja). 3 Maja i Zielone Świątki wypadają w niedziele"
         },
         "5": {
             "nazwa": "Czerwiec",
@@ -69,7 +121,8 @@
             "pelne_12h": 14,
             "reszta_h": 0,
             "dni_pracy_12h": 14,
-            "dni_wolne_12h": 16
+            "dni_wolne_12h": 16,
+            "uwagi": "Boże Ciało (4 czerwca)"
         },
         "6": {
             "nazwa": "Lipiec",
@@ -79,7 +132,8 @@
             "pelne_12h": 15,
             "reszta_h": 4,
             "dni_pracy_12h": 16,
-            "dni_wolne_12h": 15
+            "dni_wolne_12h": 15,
+            "uwagi": "Najdłuższy miesiąc roboczy w roku"
         },
         "7": {
             "nazwa": "Sierpień",
@@ -89,7 +143,8 @@
             "pelne_12h": 13,
             "reszta_h": 4,
             "dni_pracy_12h": 14,
-            "dni_wolne_12h": 17
+            "dni_wolne_12h": 17,
+            "uwagi": "15 sierpnia (sobota) obniża wymiar o 8h - dodatkowy dzień wolny do odbioru"
         },
         "8": {
             "nazwa": "Wrzesień",
@@ -99,7 +154,8 @@
             "pelne_12h": 14,
             "reszta_h": 8,
             "dni_pracy_12h": 15,
-            "dni_wolne_12h": 15
+            "dni_wolne_12h": 15,
+            "uwagi": "Brak świąt obniżających wymiar"
         },
         "9": {
             "nazwa": "Październik",
@@ -109,7 +165,8 @@
             "pelne_12h": 14,
             "reszta_h": 8,
             "dni_pracy_12h": 15,
-            "dni_wolne_12h": 16
+            "dni_wolne_12h": 16,
+            "uwagi": "Brak świąt obniżających wymiar"
         },
         "10": {
             "nazwa": "Listopad",
@@ -119,7 +176,8 @@
             "pelne_12h": 13,
             "reszta_h": 4,
             "dni_pracy_12h": 14,
-            "dni_wolne_12h": 16
+            "dni_wolne_12h": 16,
+            "uwagi": "11 listopada (środa). 1 listopada wypada w niedzielę"
         },
         "11": {
             "nazwa": "Grudzień",
@@ -129,7 +187,8 @@
             "pelne_12h": 13,
             "reszta_h": 4,
             "dni_pracy_12h": 14,
-            "dni_wolne_12h": 17
+            "dni_wolne_12h": 17,
+            "uwagi": "Wigilia (24 grudnia, czwartek), I Dzień Świąt (25 grudnia, piątek), II Dzień Świąt w sobotę (26 grudnia) obniża wymiar o 8h"
         }
     }
 }

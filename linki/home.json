@@ -169,9 +169,9 @@
   },
   {
     "id": "RES_026",
-    "name": "GITS_REPO",
-    "url": "https://s-pro-v.github.io/gits_repo",
-    "type": "EXTERNAL_REPO",
+    "name": "GITS_ADD",
+    "url": "https://s-pro-v.github.io/gist_add/",
+    "type": "EXTERNAL_ADD",
     "status": "ACTIVE"
   },
   {

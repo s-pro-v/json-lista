@@ -63,13 +63,6 @@
     "status": "ACTIVE"
   },
   {
-    "id": "RES_010",
-    "name": "JSDELIVR",
-    "url": "https://www.jsdelivr.com/github",
-    "type": "WEB_SERVICE",
-    "status": "ACTIVE"
-  },
-  {
     "id": "RES_011",
     "name": "CYBER-CODE",
     "url": "https://s-pro-v.github.io/cyber-code",

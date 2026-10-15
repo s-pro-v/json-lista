@@ -411,5 +411,12 @@
     "url": "https://s-pro-v.github.io/mobile_play/",
     "type": "WEB_SERVICE",
     "status": "ACTIVE"
+  },
+  {
+    "id": "RES_068",
+    "name": "PERCHANCE_DEV",
+    "url": "https://perchance.org/1jtvql9rja",
+    "type": "WEB_SERVICE",
+    "status": "ACTIVE"
   }
 ]

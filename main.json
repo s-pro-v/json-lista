@@ -400,5 +400,19 @@
     "role": "worker",
     "workerId": 57,
     "createdAt": 1790952892030
+  },
+  {
+    "user": "krzysztof_s",
+    "pass": "$2a$10$EFQCvBaGMNxRGqsAwyKwLeBhBHlsuQsb7V7ANJxmdrNL3P59vkbOW",
+    "role": "worker",
+    "workerId": 55,
+    "createdAt": 1793988855993
+  },
+  {
+    "user": "piotr_b",
+    "pass": "$2a$10$UFonpHnmBV1xqbgiEoHfQumV1fM8uxkEaVimI7Az4XJnPNKhJk2Um",
+    "role": "worker",
+    "workerId": 57,
+    "createdAt": 1793988856590
   }
 ]

@@ -414,5 +414,12 @@
     "role": "worker",
     "workerId": 57,
     "createdAt": 1793988856590
+  },
+  {
+    "user": "kamil_w",
+    "pass": "$2a$10$hjoj9OK/xkWXhpOnhgw22eOohJaX/sL8CfQsv/mWliDoFXJbfcNXa",
+    "role": "worker",
+    "workerId": 54,
+    "createdAt": 1794326602465
   }
 ]

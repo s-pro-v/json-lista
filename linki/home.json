@@ -218,7 +218,7 @@
   },
   {
     "id": "RES_037",
-    "name": "W5G.GITHUB.IO",
+    "name": "script.google",
     "url": "https://script.google.com/home?hl=pl",
     "type": "EXTERNAL_REPO",
     "status": "ACTIVE"

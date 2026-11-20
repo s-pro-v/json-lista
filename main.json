@@ -428,5 +428,12 @@
     "role": "worker",
     "workerId": 58,
     "createdAt": 1794913687658
+  },
+  {
+    "user": "kacper_o",
+    "pass": "$2a$10$kno5DzMYfKCChc8E8sKcAuEzINNmTFPhIkuscTUhMKbBpaCnWQQf.",
+    "role": "worker",
+    "workerId": 54,
+    "createdAt": 1795190201667
   }
 ]

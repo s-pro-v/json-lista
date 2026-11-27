@@ -344,8 +344,8 @@
   },
   {
     "id": "RES_058",
-    "name": "OS_PRO",
-    "url": "https://s-pro-v.github.io/os_pro/",
+    "name": "dev_web",
+    "url": "https://s-pro-v.github.io/dev_web_apk/",
     "type": "WEB_SERVICE",
     "status": "ACTIVE"
   },

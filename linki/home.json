@@ -155,8 +155,8 @@
   },
   {
     "id": "RES_025",
-    "name": "ADD_GRAFIK",
-    "url": "https://s-pro-v.github.io/add_grafik",
+    "name": "add_data_cmr",
+    "url": "https://s-pro-v.github.io/add_data_cmr/",
     "type": "EXTERNAL_REPO",
     "status": "ACTIVE"
   },
